@@ -9,10 +9,13 @@ author:
   avatar : "/images/bio_photo.jpg"
   bio    : "Digital cultural history"
 
-minimal_mistakes_skin: "light"
+minimal_mistakes_skin: "contrast"
 locale: "en"
 markdown: kramdown
 highlighter: rouge
 paginate: 5
 
 exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor"]
+
+header_pages:
+  - _pages/blog.md
