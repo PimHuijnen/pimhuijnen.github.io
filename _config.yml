@@ -9,7 +9,7 @@ author:
   avatar : "/images/bio_photo.jpg"
   bio    : "Digital cultural history"
 
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "light"
 locale: "en"
 markdown: kramdown
 highlighter: rouge
