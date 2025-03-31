@@ -6,8 +6,8 @@ plugins:
 
 author:
   name   : "Pim Huijnen"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Historian, researcher, digital humanities enthusiast."
+  avatar : "/images/bio_photo.jpg"
+  bio    : "Digital cultural history"
 
 minimal_mistakes_skin: "dark"
 locale: "en"
