@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Pim Huijnen"
+  name   : ""
   avatar : "/images/bio_photo.jpg"
   bio    : "Digital cultural historian"
   location: "Utrecht, NL"
