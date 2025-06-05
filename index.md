@@ -9,6 +9,7 @@ updates about research projects, teaching, and public talks.
 
 <div class="landing-tabs">
   <a href="{{ '/posts/' | relative_url }}">Posts</a>
+  <a href="{{ '/about/' | relative_url }}">About</a>
   <a href="{{ '/research/' | relative_url }}">Research</a>
   <a href="{{ '/publications/' | relative_url }}">Publications</a>
   <a href="{{ '/presentations/' | relative_url }}">Presentations</a>
