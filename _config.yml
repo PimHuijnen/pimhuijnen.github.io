@@ -36,9 +36,9 @@ paginate: 5
 exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor"]
 
 header_pages:
-  - _pages/posts.md
-  - _pages/about.md
-  - _pages/research.md
-  - _pages/publications.md
-  - _pages/presentations.md
-  - _pages/teaching.md
+  - posts.md
+  - about.md
+  - research.md
+  - publications.md
+  - presentations.md
+  - teaching.md
