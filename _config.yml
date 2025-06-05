@@ -3,11 +3,29 @@ description: Personal website
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "Pim Huijnen"
   avatar : "/images/bio_photo.jpg"
-  bio    : "Digital cultural history"
+  bio    : "Digital cultural historian"
+  location: "Utrecht, NL"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pimhuijnen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/pimhuijnen/recent-activity/all/"
+    - label: "UU Staff"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.uu.nl/staff/PHuijnen"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-5477-6352"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=Pe4aDh4AAAAJ&hl=en"
 
 minimal_mistakes_skin: "contrast"
 locale: "en"
@@ -18,4 +36,9 @@ paginate: 5
 exclude: ["Gemfile", "Gemfile.lock", "node_modules", "vendor"]
 
 header_pages:
-  - _pages/blog.md
+  - _pages/posts.md
+  - _pages/about.md
+  - _pages/research.md
+  - _pages/publications.md
+  - _pages/presentations.md
+  - _pages/teaching.md
