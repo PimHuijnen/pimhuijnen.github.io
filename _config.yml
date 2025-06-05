@@ -6,7 +6,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : ""
+  name   : "Pim Huijnen"
   avatar : "/images/bio_photo.jpg"
   bio    : "Digital cultural historian"
   location: "Utrecht, NL"
