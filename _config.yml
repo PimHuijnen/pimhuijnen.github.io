@@ -27,7 +27,7 @@ author:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=Pe4aDh4AAAAJ&hl=en"
 
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "plum"
 locale: "en"
 markdown: kramdown
 highlighter: rouge
