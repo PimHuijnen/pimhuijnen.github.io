@@ -2,7 +2,7 @@
 title: "Pim Huijnen"
 about:
   template: jolla
-  image: images/mainpage.jpg
+  image: images/mainpage1.jpg
 ---
 
 
@@ -10,7 +10,7 @@ about:
 
 <center>
 
-<!-- ![](images/mainpage.jpg){width=40%}{.border fig-alt="ALT text here"} -->
+<!-- ![](images/mainpage1.jpg){width=40%}{.border fig-alt="Pim Huijnen"} -->
 
 <!-- <h1></h1> -->
 
