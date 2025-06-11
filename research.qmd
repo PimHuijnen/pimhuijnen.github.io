@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-### Digital history
+###   Digital history {#digital-history}
 
 My research focuses on digital text analysis to study conceptual change over time. I am particularly interested in the circulation of knowledge across different domains—such as science, politics, industry, and popular culture. How can traces of eugenic thinking be found in Dutch public discourse, for example, even though eugenics was condemned by large parts of society? Or how did Dutch companies and organizations interpret the American notion of "efficiency" after World War I, and how did the philosophy of efficiency come to shape ever more domains of life? How has the food industry defined concepts like "healthy food"—or, for that matter, "sustainable food"—in changing ways over time?
 
