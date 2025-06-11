@@ -2,15 +2,13 @@
 title: "Research"
 ---
 
-## Research Interests
-
 ### Digital history
 
 My research focuses on digital text analysis to study conceptual change over time. I am particularly interested in the circulation of knowledge across different domains—such as science, politics, industry, and popular culture. How can traces of eugenic thinking be found in Dutch public discourse, for example, even though eugenics was condemned by large parts of society? Or how did Dutch companies and organizations interpret the American notion of "efficiency" after World War I, and how did the philosophy of efficiency come to shape ever more domains of life? How has the food industry defined concepts like "healthy food"—or, for that matter, "sustainable food"—in changing ways over time?
 
 I like developing and using computational methods to study questions like these, because they enable me to map conceptual changes in textual data that covers large spans of time and/or that allows me to compare different domains of life or different countries.
 
-My latest projects were, first, the [Semantics of Sustainability](https://semantics-of-sustainability.github.io/Website/index.html){.external target="_blank"} (2022-2025, funded by the [Nl eScience Center](https://www.esciencecenter.nl/), which leverages LLMs to study the Dutch public discourse around "sustainability" (together with [Parisa Zahedi](https://github.com/parisa-zahedi){.external target="_blank"}, [Carsten Schnober](https://carschno.github.io/){.external target="_blank"}, [José Angel Daza](https://github.com/angel-daza){.external target="_blank"}, [Mees van Stiphout](https://www.uu.nl/staff/MvanStiphout){.external target="_blank"} and [Pablo Merayo Montes](https://github.com/Pablo-Merayo){.external target="_blank"}. Second, I have set up a machine learning pipeline to do a sentiment analysis of the discourse around fossil fuels, nuclear energy and renewable energy in Dutch newspapers between 1950 and 1995 (funded by the UU Research IT Innovation Fund 2022 and the UU Applied Data Science Seed Fund 2024, together with [Jaap Verheul](https://www.uu.nl/staff/JVerheul){.external target="_blank"}, [Gertjan Plets](https://www.uu.nl/staff/GFJPlets){.external target="_blank"}, [Anastasia Giachanou](http://giachanou.com/){.external target="_blank"}, [Leonardo Vida](https://www.leonardovida.com/){.external target="_blank"}, [Parisa Zahedi](https://github.com/parisa-zahedi){.external target="_blank"} and [Shiva Nadi Najafabadi](https://www.uu.nl/staff/SNadiNajafabadi){.external target="_blank"}. Our code can be found on our [GitHub repo](https://github.com/UtrechtUniversity/historical-news-sentiment){.external target="_blank"}.
+My latest projects were, first, the [Semantics of Sustainability](https://semantics-of-sustainability.github.io/Website/index.html){.external target="_blank"} (2022-2025, funded by the [Nl eScience Center](https://www.esciencecenter.nl/){.external target="_blank"}, which leverages LLMs to study the Dutch public discourse around "sustainability" (together with [Parisa Zahedi](https://github.com/parisa-zahedi){.external target="_blank"}, [Carsten Schnober](https://carschno.github.io/){.external target="_blank"}, [José Angel Daza](https://github.com/angel-daza){.external target="_blank"}, [Mees van Stiphout](https://www.uu.nl/staff/MvanStiphout){.external target="_blank"} and [Pablo Merayo Montes](https://github.com/Pablo-Merayo){.external target="_blank"}. Second, I have set up a machine learning pipeline to do a sentiment analysis of the discourse around fossil fuels, nuclear energy and renewable energy in Dutch newspapers between 1950 and 1995 (funded by the UU Research IT Innovation Fund 2022 and the UU Applied Data Science Seed Fund 2024, together with [Jaap Verheul](https://www.uu.nl/staff/JVerheul){.external target="_blank"}, [Gertjan Plets](https://www.uu.nl/staff/GFJPlets){.external target="_blank"}, [Anastasia Giachanou](http://giachanou.com/){.external target="_blank"}, [Leonardo Vida](https://www.leonardovida.com/){.external target="_blank"}, [Parisa Zahedi](https://github.com/parisa-zahedi){.external target="_blank"} and [Shiva Nadi Najafabadi](https://www.uu.nl/staff/SNadiNajafabadi){.external target="_blank"}. Our code can be found on our [GitHub repo](https://github.com/UtrechtUniversity/historical-news-sentiment){.external target="_blank"}.
 
 For an overview of my digital history projects and those of my colleagues at Utrecht University, check our [Digital History website](https://digitalhistory.hum.uu.nl/){.external target="_blank"}.
 
@@ -30,7 +28,7 @@ I was trained as historian of science, having writing my master thesis about the
 
 ![](images/huijnen_phd.png){fig-align="left"}{width=20}
 
-## Grants, fellowships and awards
+### Grants, fellowships and awards
 
 2024 \| Grant from the UU Education Incentive Fund for Transferable pedagogies for an Open Science mindset and skillset (as co-PI; 250,000€)
 
@@ -56,7 +54,7 @@ I was trained as historian of science, having writing my master thesis about the
 
 2011 \| Research grant Max Planck Institute for the History of Science, Berlin (3 months 1fte)
 
-## Editorial, advisory and reviewing activities
+### Editorial, advisory and reviewing activities
 
 Since 2023 \| Member of the national advisory committee national Thematic Digital Competence Centre Social Sciences and Humanities (SSH)
 

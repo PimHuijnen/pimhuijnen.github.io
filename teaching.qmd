@@ -2,17 +2,17 @@
 title: "Teaching"
 ---
 
-## (Generative) artificial intelligence
+### (Generative) artificial intelligence
 
-I'm involved in multiple initiatives at Utrecht University aimed at fostering education in (generative) AI. Together with colleagues [Frans Adriaans](https://www.uu.nl/staff/FWAdriaans){.external target="_blank"}, [Tejaswini Deoskar](https://www.uu.nl/staff/TDeoskar){.external target="_blank"}, [Dominik Klein](https://www.uu.nl/staff/DKlein){.external target="_blank"}, and [Evelyn Wan](https://www.uu.nl/staff/PYWan){.external target="_blank"} I'm developing teaching formats for the [UU Humanities faculty](https://www.uu.nl/en/organisation/faculty-of-humanities){.external target="_blank"} on Humane AI as a part of the [Sectorplan SSH](https://www.sectorplan-ssh.nl/){.external target="_blank"}. We have written a [position paper](documents/HumaneAI-positionpaper-Draft1.0.pdf) (2024), in which we explain our perspective on the role of the Humanities in AI development and education.
+I'm involved in multiple initiatives at Utrecht University aimed at fostering education in (generative) AI. Together with colleagues [Frans Adriaans](https://www.uu.nl/staff/FWAdriaans){.external target="_blank"}, [Tejaswini Deoskar](https://www.uu.nl/staff/TDeoskar){.external target="_blank"}, [Dominik Klein](https://www.uu.nl/staff/DKlein){.external target="_blank"}, and [Evelyn Wan](https://www.uu.nl/staff/PYWan){.external target="_blank"} I'm developing teaching formats for the [UU Humanities faculty](https://www.uu.nl/en/organisation/faculty-of-humanities){.external target="_blank"} on Humane AI as a part of the [Sectorplan SSH](https://www.sectorplan-ssh.nl/){.external target="_blank"}. We have written a [position paper](documents/HumaneAI-positionpaper-Draft1.0.pdf) (2024, pdf), in which we explain our perspective on the role of the Humanities in AI development and education.
 
-Together with my colleague [Swantje Falcke](https://www.uu.nl/staff/SFalcke){.external target="_blank"} I'm developing a reflection tool for teaching staff. The aim of this tool is to get an overview of the potential impact of generative AI on the intended learning outcomes of a course, as well as the assessment forms that are meant to evaluate these learning goals. The tool provides constructive ways for how to make both learning outcomes and assessment forms less vulnerable to students using generative AI, or even for how to incorporate its use deliberately.
+Together with my colleague [Swantje Falcke](https://www.uu.nl/staff/SFalcke){.external target="_blank"} I'm developing a reflection tool for teaching staff. The aim of this tool is to get an overview of the potential impact of generative AI on the intended learning outcomes of a course, as well as the assessment forms that are meant to evaluate these learning goals. The tool provides constructive ways for how to make both learning outcomes and assessment forms less vulnerable to students using generative AI, or even for how to incorporate its use deliberately. 
 
-## Digital Literacy
+### Digital Literacy
 
 I'm involved in the development and supervision of the faculty-wide learning trajectory digital literacy at the UU Humanities faculty. I'm the co-creator of an extensive matrix with the most important elements of digital literacy (published [here](https://zenodo.org/records/14056709){.external target="_blank"} on Zenodo) at our faculty, and I have been member of committees overseeing the implementation of the learning trajectory in the 30+ BA programs of our faculty.
 
-## Text mining for historians
+### Text mining for historians
 
 I enjoy introducing history students to text mining techniques in Python. I have developed a series of Jupyter Notebooks that guide students through the preprocessing steps needed to do quantitative text analysis in a reliable way, and that offers a range of tools that students can use to explore large textual datasets. These range from n-gram functionalities to POS-tagging and from tf-idf to word embeddings. The Jupyter Notebooks can be found in [this GitHub repository](https://github.com/PimHuijnen/QTA){.external target="_blank"} (disclaimer: the code is aimed at transparency rather than efficiency. It also may not always be optimal, since I'm not trained as a software engineer). 
 
@@ -20,10 +20,10 @@ I have successfully used the Notebooks in multiple iterations of the History Lab
 
 ![](images/textmining.png){fig-align="left"}
 
-## History
+### History
 
 I'm an experienced history teacher, with a special interest in methodology and theory. I have both coordinated research skills courses and theory of history courses at Utrecht University. I have also taught introductions to quantitative history, conceptual history, food history, and modern German history.
 
-## Leadership
+### Leadership
 
 Next to teaching and coordination tasks, I have multiple institutional responsibilities. I'm the head of the Curriculum Committee overseeing the quality of four MA programs at the History and Art History department. I'm overseeing the teaching responsibilities of the Cultural History section, distributing all teaching tasks among the ca. 35 staff members of our section. I'm a UU public engagement fellow, a member of the UU Open Education expert committee, and an affiliated member of the UU Centre of Digital Humanities.
