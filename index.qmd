@@ -1,0 +1,22 @@
+---
+title: "Pim Huijnen"
+about:
+  template: jolla
+  image: images/mainpage.jpg
+---
+
+
+
+
+<center>
+
+<!-- ![](images/mainpage.jpg){width=40%}{.border fig-alt="ALT text here"} -->
+
+<!-- <h1></h1> -->
+
+Digital cultural history
+
+
+{{< include links.html >}}
+
+</center>

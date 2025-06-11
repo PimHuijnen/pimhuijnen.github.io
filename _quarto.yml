@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Pim Huijnen"
+  description: "Personal website of Pim Huijnen"
+  repo-url: https://github.com/PimHuijnen/pimhuijnen.github.io
+  navbar:
+    logo: images/mainpage.jpg
+    title: false
+    background: dark
+    foreground: light
+    left: 
+      - href: index.qmd
+        text: Pim Huijnen
+    right:
+      - about.qmd
+      - research.qmd
+      - publications.qmd
+      - talks.qmd
+      - teaching.qmd
+    search: true
+  page-footer: 
+    right: 
+      - icon: cc-circle
+        text: "Pim Huijnen" 
+  open-graph: true
+  twitter-card: false
+  favicon: logo.png
+email-obfuscation: javascript
+css: styles.css
+format:
+  html:
+    theme: 
+      light: [lux, theme-light.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    link-external-newwindow: true
+    include-in-header:
+      - includes.html
+    page-layout: full

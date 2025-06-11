@@ -1,0 +1,10 @@
+---
+  title: "About"
+---
+
+My name is Pim Huijnen (Heerlen, 1979) and I work as an assistant professor in Digital Cultural History at Utrecht University's [Department of History and Art History](https://www.uu.nl/en/organisation/department-of-history-and-art-history){.external target="_blank"}. My research focuses on the use of digital text analysis to investigate the history of science and the history of ideas. I am, in particular, interested in conceptual history and the circulation of knowledge between the scientific, political and commercial domains and popular culture. 
+
+For an extensive overview of my experience, see my [CV](documents/phuijnen_academic resume2025.pdf) (pdf) or [LinkedIn profile](https://www.linkedin.com/in/pimhuijnen/){.external target="_blank"}. For more information about my [research](research.html) and [teaching](teaching.html), see the tabs on top.
+
+![](images/about.jpg)
+

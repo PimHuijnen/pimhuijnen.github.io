@@ -1,0 +1,142 @@
+---
+title: "Publications"
+---
+
+## 2025 
+
+Huijnen, P. (2025), 'Getting to Work – Digital History Revisited'. BMGN - Low Countries Historical Review 140, Pages 38–54. [https://doi.org/10.51769/bmgn-lchr.21151](https://doi.org/10.51769/bmgn-lchr.21151){.external target="_blank"}.
+
+## 2024
+
+Derksen, M., Meirmans, S., Brenninkmeijer, J., Pols, J., de Boer, A., van Eyghen, H., Gayet, S., Groenwold, R., Hernaus, D., Huijnen, P., Jonker, N., de Kleijn, R., Kroll, C. F., Krypotos, A. M., van der Laan, N., Luijken, K., Meijer, E., Pear, R. S. A., Peels, R., ... de Winter, J. (2024). 'Replication studies in the Netherlands: Lessons learned and recommendations for funders, publishers and editors, and universities. Accountability in Research'. Advance online publication. [https://doi.org/10.1080/08989621.2024.2383349](https://doi.org/10.1080/08989621.2024.2383349){.external target="_blank"}.
+
+Huijnen, P. (2024). 'Everyday memory: A computational analysis of changing relations between past and present in Dutch newspapers in the twentieth Century'. Digital Scholarship in the Humanities. Advance online publication. [https://doi.org/10.1093/llc/fqad099](https://doi.org/10.1093/llc/fqad099){.external target="_blank"}.
+
+## 2023
+
+Huijnen, P., Huisman, M. (Ed.), Koch, J. (Ed.), & van Miert, D. (Ed.) (2023). 'Eerherstel in een archivaal addendum: Wat een anonieme notitie prijsgeeft over de carrière van professor L.K. Wolff'. In Tastend door de tijd: Een greep uit vier eeuwen Utrechtse wetenschapsgeschiedenis (pp. 62-63). Matrijs en Universiteit Utrecht.
+
+Arnoult, S. et.al., Working paper ‘How to create Dutch (historical) transformer models’, [https://github.com/Semantics-of-Sustainability/2022-12-09-workshop/blob/main/paper-draft.md](https://github.com/Semantics-of-Sustainability/2022-12-09-workshop/blob/main/paper-draft.md){.external target="_blank"}. 
+
+Fabian, S., Huijnen, P., Pan-Montojo, J., & Varga, Z. (2023). 'Production and Consumption in Contemporary History (ca. 1900-2000)'. In The European Experience: A Multi-Perspective History of Modern Europe (pp. 647-655). Open Book Publishers. [https://doi.org/10.11647/OBP.0323.60](https://doi.org/10.11647/OBP.0323.60){.external target="_blank"}.
+
+Gyimesi, Z., Huijnen, P., & Lehmann, L. (2023). 'Education and Knowledge Transfer in Contemporary History (1900-2000)'. In The European Experience: A Multi-Perspective History of Modern Europe (pp. 517-525). Open Book Publishers. [https://doi.org/10.11647/OBP.0323.48](https://doi.org/10.11647/OBP.0323.48){.external target="_blank"}.
+
+## 2022
+
+Huijnen Pim and Pieter Huistra, On the use of replications in history: A white paper (2022) [https://doi.org/10.5281/zenodo.7037401](https://doi.org/10.5281/zenodo.7037401){.external target="_blank"}.
+
+Huijnen, Pim, 'Geschiedonderzoek in podcasts stelt de zoektocht centraal, niet het resultaat'. Aanzet, 37, 1 (2022) 28-40.
+
+## 2021
+
+Eijnatten, Joris van and Pim Huijnen, ‘Something Happened to the Future. Reconstructing Temporalities in Dutch Parliamentary Debate, 1814-2018’, Contributions to the History of Concepts 16 (2021) pp. 52-82.
+
+Plets, Gertjan, Pim Huijnen and David van Oeveren, ‘Excavating Archaeological Texts: Applying Digital Humanities to the Study of Archaeological Thought and Banal Nationalism’, Journal of Field Archaeology 46, 5 (2021) pp. 289-302.
+
+## 2019
+
+Huijnen, Pim and Melvin Wevers, 'Buy healthy, tasty, pure! A digital text analysis of neoliberal trends in Dutch food culture', poster presented at DH2019 Utrecht.
+
+Huijnen, Pim, guest editor special issue International Journal for History, Culture and Modernity on Digital History.
+
+Huijnen, Pim, 'Digital History and the Study of Modernity', International Journal for History, Culture and Modernity 7 (2019).
+
+## 2018
+
+Huijnen, Pim, Book review: Elizabeth Neswald; David F. Smith; Ulrike Thoms (Editors). Setting Nutritional Standards: Theory, Policies, Practices . vi + 230 pp., figs., bibl., index. Rochester, N.Y.: University of Rochester Press, 2017. $99 (cloth). ISBN 9781580465762. Isis 109, 4 (2018) pp. 823-824.
+
+## 2017
+
+Snelders, S.A.M., Pim Huijnen, Jaap Verheul, Maarten de Rijke & Toine Pieters, ‘A Digital Humanities Approach to the History of Culture and Science’, Jan Odijk and Arjan van Hessen (eds.), CLARIN in the Low Countries (London 2017) pp. 325-336.
+
+Huijnen, Pim, ‘Het paradoxale van Wikipedia’, book review: Thomas Wozniak, Jürgen Nemitz en Uwe Rohwedder ed., Wikipedia und Geschichtswissenschaft, Tijdschrift Voor Geschiedenis 130 (2017) pp. 491-493.
+
+Huijnen, Pim, Book review: 'Heiko Stoff. Gift in der Nahrung: Zur Genese der Verbraucherpolitik Mitte des 20. Jahrhunderts', Isis 108, 2 (2017) pp. 464-465.
+
+Huijnen, Pim, ‘Achter deze grafiek gaat veel schuil’, Aanzet 33 (2017).
+
+## 2016
+
+Martinez-Ortiz, Carlos, Tom Kenter, Melvin Wevers, Pim Huijnen, Jaap Verheul, Joris van Eijnatten (2016), “Design and implementation of ShiCo: Visualising shifting concepts over time”, In: Proceedings of the 3rd International Workshop on Computational History (HistoInformatics2016) (CEUR Workshop Proceedings 1632) pp. 11-19.
+
+Martinez-Ortiz, Carlos, Tom Kenter, Melvin Wevers, Pim Huijnen, Jaap Verheul & Joris van Eijnatten, 'ShiCo: A Visualization Tool for Shifting Concepts Through Time', Proceedings of the 3rd DH Benelux Conference (DH Benelux 2016) (2016)
+
+Huijnen, Pim & Juliette Lonij, ‘From Keyword Searching to Concept Mining’, in: Annual Conference of the Alliance of Digital Humanities Organizations 2016 (DH2016) (2016).
+
+Huijnen, Pim, Book review: 'Peter Jan Knegtmans, Geld, ijdelheid en hormonen. Ernst Laqueur (1880-1947), hoogleraar en ondernemer', Bijdragen en Mededelingen Betreffende de Geschiedenis der Nederlanden, 131 (160).
+
+## 2015
+
+Garvert-Huijnen, Katharina & Pim Huijnen, ‘Tolerant, liberal, populistisch? Eine digitale Analyse des Niederlandebildes in bundesdeutschen Tageszeitungen im Wandel der Zeit’, in: M. Lemke and G. Wiedemann (eds.), Text Mining in den Sozialwissenschaften. Grundlagen und Anwendungen zwischen qualitativer und quantitativer Diskursanalyse  (Springer VS: Wiesbaden 2015), pp. 197-228.
+
+Kenter, Tom, Melvin Wevers, Pim Huijnen & Maarten de Rijke, ‘Ad Hoc Monitoring of Vocabulary Shifts over Time’, in: Proceedings of the 24th ACM International Conference on Information and Knowledge Management (New York: ACM, 2015), pp. 1191-1200.
+
+Wevers, Melvin, Tom Kenter &Pim Huijnen, Concepts Through Time: Tracing Concepts in Dutch Newspaper Discourse (1890-1990) using Word Embeddings, in: Annual Conference of the Alliance of Digital Humanities Organizations 2015 (DH2015) (2015)
+
+Huijnen, Pim & Melvin Wevers, ‘Digital deconstruction. The Digital Turn and the use of news media as sources for historical research’, Officina della Storia 13 (2015).
+
+Wevers, Melvin &Pim Huijnen. “Mapping America in Dutch Public Discourse: A Digital Approach to Researching the United States as a Reference Culture.” In: Proceedings of the 19th International Colloquium of American Studies (Olomouc: Palacky University Olomouc, 2015), pp. 109–26.
+
+Huijnen, Pim, ‘Historische kranten als Big Data’, Den Haag 03/25/2015, Historici.nl, 04/08/2015.
+
+## 2014
+
+Huijnen, Pim, Fons Laan, Maarten de Rijke & Toine Pieters, ‘A Digital Humanities Approach to the History of Science. Eugenics revisited in hidden debates by means of semantic text mining’, in: A. Nadamoto et.al. (eds.), Social Informatics. SocInfo 2013 International Workshops, QMC and HISTOINFORMATICS Kyoto, Japan, November 25, 2013 (Springer: Berlin and Heidelberg, 2014)
+
+Huijnen, Pim, 'Reference Cultures and Imagined Empires from a Western Perspective, 1850-2000', Utrecht, 06/11/2014-06/13/2014, H-Soz-Kult, 09/24/2014.
+
+## 2013
+
+Huijnen, Pim, ‘The Science of Measuring Vitamins. Quality Control and Competition in the Dutch Vitamin Industry before the Second World War’, in: Alexander von Schwerin, Heike Stoff and Bettina Wahrig (eds.), Biologics. A History of Agents Made from Living Organisms in the 20th Century (London: Pickering & Chatto, 2013), pp.139-150.
+
+Huijnen, Pim, 'Evert Cornelis van Leersum (1862-1938): Pionier van de geschiedenis van de geneeskunde', in: David Baneke and Huib Zuidervaart (eds.), 'Wonderen zijn verricht door de geestdrift van de stichters'. Impressies van een eeuw wetenschaps- en universiteitsgeschiedenis in de Lage Landen. (Jubileumbundel Studium. Tijdschrift voor Wetenschaps- en Universiteitsgeschiedenis 6, 2013), pp.228-231.
+
+Huijnen, Pim, '"Our stomachs can't wait that long": E.C. van Leersum and the rise of applied nutrition research in the Netherlands', in: Ad Maas and Henriëtte Schatz (eds.), Physics as a Calling, Science for Society. Studies in Honour of A.J. Kox (Leiden: Leiden University Press, 2013), pp. 111-130.
+
+Garvert-Huijnen, Katharina en Pim Huijnen, 'trouw opinie merkels hitlersnor 5 april 2013', Trouw 05-04-2013, p. 19.
+
+## 2012
+
+Huijnen, Pim, 'Eendrachtige samenwerking',  De Volkskrant 17-03-2012.
+
+## 2011
+
+Huijnen, Pim, De belofte van vitamines. Voedingsonderzoek tussen universiteit, industrie en overheid 1918-1945 (Hilversum: Verloren, 2011). (reviews in BMGN/LCHR, Tijdschrift voor Geschiedenis, Tijdschrift voor Sociale en Economische Geschiedenis, Studium, Geschiedenis Magazine, Historischhuis.nl)
+
+## 2010
+
+Huijnen, Pim, ‘Het wondermiddel van professor Buytendijk’, Studium 4 (2010) 155-169.
+
+Huijnen, Pim, ‘L.K. Wolff en de professionalisering van het voedingsonderzoek in de jaren twintig en dertig’, in: L.J. Dorsman and P.J. Knegtmans (eds.), Het universitaire bedrijf in Nederland. Over professionalisering van onderzoek, onderwijs, bestuur en beheer (Hilversum: Verloren, 2010), pp. 11-23.
+
+## 2009
+
+Huijnen, Pim, ‘Zwischen Gemeinwohl und Privatinteresse: Der Wissenschaftler als Vitaminexperte’, in: Nicole Coline (ed.), Forschungsberichte Duitsland Instituut Amsterdam 5 (Amsterdam: Duitsland Instituut Amsterdam 2009), pp. 48-59.
+
+## 2007
+
+Huijnen, Pim and Anne J. Kox, 'Paul Ehrenfests Rough Road to Leiden: A Physicists Search for a Position, 1904-1912', Physics in Perspective 9 (2007) 186-211.
+
+Huijnen, Pim, 'Universiteit, bedrijfsleven en de opkomst van de beroepsonderzoeker, 1880-1940', in: L.J. Dorsman and P.J. Knegtmans (eds.), Onderzoek in opdracht. De publieke functie van het universitaire onderzoek in Nederland sedert 1876 (Hilversum: Verloren, 2007), pp. 23-38.
+
+## Popular publications
+### Duitslandweb
+
+Ik schreef tussen 2004 en 2013 voor het Duitslandweb, website voor Duitse actualiteiten en geschiedenis, aan het Duitsland Instituut Amsterdam. Mijn bijdragen varieerden van politieke analyses tot interviews met wetenschappers en van columns tot boekbesprekingen.
+
+### De Groene Amsterdammer
+
+Tussen 2006 en 2008 schreef ik een aantal artikelen voor de Groene Amsterdammer over historiografische onderwerpen, over Peter Sloterdijk en over privacykwesties:
+
+We gebruiken uw gegevens slechts overal voor. Duitsers en privacy, De Groene Amsterdammer (26-03-2008)
+
+Gerechtelijke firewall. Pc en privacy, De Groene Amsterdammer (5-3-2008)
+
+'De overheid mág niet alles.' Interview met oud-minister Gerhart Baum, De Groene Amsterdammer (5-12-2007)
+
+De grijs geverfde twintigste eeuw. De Eerste Wereldoorlog als historiografisch probleem, De Groene Amsterdammer (13-6-2007)
+
+De stad en zijn niet-bewoners, De Groene Amsterdammer (14-3-2007)
+
+Groots, tragisch en Pruisisch (recensie van Astrid von Pufendorf, Die Plancks, Berlijn 2006), De Groene Amsterdammer (15-11-2006)
