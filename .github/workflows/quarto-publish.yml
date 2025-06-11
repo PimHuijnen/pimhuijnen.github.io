@@ -1,0 +1,36 @@
+name: Render and publish Quarto site
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Install Pandoc (optional if not bundled)
+        run: sudo apt-get install -y pandoc
+
+      - name: Install dependencies (if needed)
+        run: |
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev
+          pip install -r requirements.txt || true  # if using Python
+          Rscript -e 'install.packages("quarto")' || true  # if using R
+
+      - name: Render Quarto site
+        run: quarto render
+
+      - name: Push rendered site to docs/
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add docs/
+          git commit -m "Automated Quarto render"
+          git push origin main
