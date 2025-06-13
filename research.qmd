@@ -38,7 +38,7 @@ I was trained as historian of science, having writing my master thesis about the
 
 2022 \| Richard Deswarte Prize in Digital History (1,000£)
 
-2021 \| Grant from the NWO / NL eScience Centre Open eScience Fund for The Semantics of Sustainability. Historicizing language models to study the conceptual history of sustainability in the Netherlands (in-kind equivalent of 300,000€)
+2021 \| Grant from the [NWO](https://www.nwo.nl/en){.external target="_blank"} / [NL eScience Centre](https://www.esciencecenter.nl/){.external target="_blank"} Open eScience Fund for The Semantics of Sustainability. Historicizing language models to study the conceptual history of sustainability in the Netherlands (in-kind equivalent of 300,000€)
 
 2020/21	\| Grant from the UU Fostering Open Science Practice Fund for CarbonCultures: Rewriting the fossil fuel history of the Netherlands (as co-PI; 25,000€)
 
@@ -52,9 +52,9 @@ I was trained as historian of science, having writing my master thesis about the
 
 2018/9 \| Grant from the UU Focus area Applied Data Science for How formal information infrastructures solicit discourse – a text mining approach (as co-PI; 5,000€)
 
-2015 \| Researcher-in-residence fellowship at the Research Department of the Dutch National Library (KB), The Hague (3 months 1fte)
+2015 \| Researcher-in-residence fellowship at the Research Department of the [Dutch National Library (KB)](https://www.kb.nl/){.external target="_blank"}, The Hague (3 months 1fte)
 
-2011 \| Research grant Max Planck Institute for the History of Science, Berlin (3 months 1fte)
+2011 \| Research grant [Max Planck Institute for the History of Science](https://www.mpiwg-berlin.mpg.de/){.external target="_blank"}, Berlin (3 months 1fte)
 
 ### Editorial, advisory and reviewing activities
 
@@ -72,9 +72,9 @@ Since 2018 \| Reviewer for Tijdschrift voor Geschiedenis, BMGN-LCHR, Digital Sch
 
 2022-2025 \| Member of the board of the [Royal Netherlands Historical Society KNHG](https://knhg.nl/){.external target="_blank"}
 
-2023 \| Member of the Dutch Research Council (NWO) VENI funding scheme review committee
+2023 \| Member of the Dutch Research Council ([NWO](https://www.nwo.nl/en){.external target="_blank"}) VENI funding scheme review committee
 
-2018-2020 \| Member of the advisory committee of Digitised Newspaper Portal of the German Digital Library DDB
+2018-2020 \| Member of the advisory committee of [Digitised Newspaper Portal](https://www.deutsche-digitale-bibliothek.de/newspaper){.external target="_blank"}) of the German Digital Library DDB
 	
-2014-2019 \| Member of the editorial board of Studium, journal for the history of Dutch and Flemish history of science and medicine
+2014-2019 \| Member of the editorial board of [Studium](https://clockss.org/triggered-content/studium-tijdschrift-voor-wetenschaps-en-universiteitsgeschiedenis-revue-dhistoire-des-sciences-et-des-universites/){.external target="_blank"}, journal for the history of Dutch and Flemish history of science and medicine
 
