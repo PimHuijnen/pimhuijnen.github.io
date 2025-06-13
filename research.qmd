@@ -24,7 +24,7 @@ Together with my colleague [Pieter Huistra](https://www.uu.nl/staff/PAHuistra){.
 
 ### History of concepts and history of science
 
-I have a special interest in the theory of conceptual history, especially that of Reinhart Koselleck. I enjoy finding ways to put his theories around time experience to the test. I have published about this in Contributions to the History of Concepts (‘Something Happened to the Future. Reconstructing Temporalities in Dutch Parliamentary Debate, 1814-2018’) and in Digital Scholarship in the Humanities ('Everyday memory: A computational analysis of changing relations between past and present in Dutch newspapers in the twentieth Century'). 
+I have a special interest in the theory of conceptual history, especially that of Reinhart Koselleck. I enjoy finding ways to put his theories around time experience to the test. I have published about this in Contributions to the History of Concepts (‘Something Happened to the Future. Reconstructing Temporalities in Dutch Parliamentary Debate, 1814-2018’ [](https://www.berghahnjournals.com/downloadpdf/view/journals/contributions/16/2/choc160204.pdf){.external target="_blank"}) and in Digital Scholarship in the Humanities ('Everyday memory: A computational analysis of changing relations between past and present in Dutch newspapers in the twentieth Century' [](https://academic.oup.com/dsh/article/40/Supplement_1/i27/7614566){.external target="_blank"}). 
 
 I was trained as historian of science, having writing my master thesis about the Austrian theoretical physicist Paul Ehrenfest and my PhD thesis about the discovery of vitamins and the advent of nutrition science in the Netherlands in the first half of the twentieth century. The latter has left me with an enduring interest in food history.
 
@@ -34,7 +34,7 @@ I was trained as historian of science, having writing my master thesis about the
 
 2024 \| Grant from the UU Education Incentive Fund for Transferable pedagogies for an Open Science mindset and skillset (as co-PI; 250,000€)
 
-2023 \| Seed money grant from the UU Aplied Data Science focus Area for Finding Sentiments in Factual Texts: Evaluation of Approaches for Analyzing Sentiments in Historical Newspapers (7,500€)
+2023 \| Seed money grant from the [UU Aplied Data Science focus Area](https://www.uu.nl/en/research/ai-data-science){.external target="_blank"} for Finding Sentiments in Factual Texts: Evaluation of Approaches for Analyzing Sentiments in Historical Newspapers (7,500€)
 
 2022 \| Richard Deswarte Prize in Digital History (1,000£)
 
