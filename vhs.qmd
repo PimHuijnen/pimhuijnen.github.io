@@ -13,13 +13,13 @@ Huijnen, Pim, [‘Het wondermiddel van professor Buytendijk’](https://platform
 
 Scheunert, A., Schieblich, M. & Reschke, J. ['Über den Vitamingehalt von Eviunis (Vitophos)'](https://rdcu.be/eGOFh). Zeitschr. f. Untersuchung der Lebensmittel 66, 271–278 (1933). https://doi.org/10.1007/BF01664670.
 
-Werbung De Betuwe jams, Nieuwe Rotterdamsche Courant, 20.09.1929, S. 20. Delpher: [https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020](https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020).
+Werbung De Betuwe jams, Nieuwe Rotterdamsche Courant, 20.09.1929, S. 20. Delpher: <https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020>.
 
-Werbung Kwatta Ma-vie chocolade, Twentsch Dagblad Tubantia en Enschedese Courant, 01.03.1929, S. 6. Delpher: [https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006(https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006).
+Werbung Kwatta Ma-vie chocolade, Twentsch Dagblad Tubantia en Enschedese Courant, 01.03.1929, S. 6. Delpher: <https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006>.
 
-Werbung Ranja en Rojo, Nieuwe Rotterdamsche Courant, 13.09.1929, S. 15. Delpher: [https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015(https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015).
+Werbung Ranja en Rojo, Nieuwe Rotterdamsche Courant, 13.09.1929, S. 15. Delpher: <https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015>.
 
-Werbung Vitawin, Nieuwe Rotterdamsche Courant, 16.11.1929, S. 1. Delpher: [https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001](https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001.
+Werbung Vitawin, Nieuwe Rotterdamsche Courant, 16.11.1929, S. 1. Delpher: <https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001>.
 
 [Werbung 'Beter Wittebrood'](http://historisch.groene.nl/nummer/1930-11-15/pagina/12), De Groene Amsterdammer, 15.11.1930, S. 12.
 
