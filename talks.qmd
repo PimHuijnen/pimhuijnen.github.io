@@ -59,6 +59,8 @@ Chair of the 'Vernetzung in Wirtschaft, Wissenschaft und Technik' panel at the c
 
 ## 2025
 
+'Zurück in die Zukunft. Die Vermessung der Vergangenheit', invited talk at the VHS Borken (18.09.2025, [references here](vhs.html))
+
 'The future of history. Between human interpretation and machine learning', keynote presentation at the Studenten Geschiedenis Nederland annual conference, Groningen (20.06.2025)
 
 'Historians using machine learning. Two case studies from environmental history', presentation for the Natural Language and Text Processing group of the Methods and Statistics department of Utrecht University (03.06.2025, together with Parisa Zahedi)

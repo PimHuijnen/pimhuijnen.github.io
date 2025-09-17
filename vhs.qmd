@@ -1,0 +1,30 @@
+---
+title: "Zurück in die Zukunft"
+---
+
+## Notizen und Referenzen zum Vortrag 'Zurück in die Zukunft. Die Vermessung der Vergangenheit'
+### VHS Borken Semestereröffnung, 18. September 2025
+
+## Vitaminen und Eviunis
+
+Huijnen, Pim, [‘Het wondermiddel van professor Buytendijk’](https://platform.openjournals.nl/studium/article/view/20214), Studium 4 (2010) 155-169.
+
+Scheunert, A., Schieblich, M. & Reschke, J. ['Über den Vitamingehalt von Eviunis (Vitophos)'](https://rdcu.be/eGOFh). Zeitschr. f. Untersuchung der Lebensmittel 66, 271–278 (1933). https://doi.org/10.1007/BF01664670
+
+[Werbung 'Beter Wittebrood'](http://historisch.groene.nl/nummer/1930-11-15/pagina/12), De Groene Amsterdammer, 15.11.1930, S. 12.
+
+Suchfrage ['vitamin*'](https://www.delpher.nl/nl/kranten/results?query=vitamin*&coll=ddd) in Delpher Zeitungsarchiv.
+
+Suchfrage ['vitamin*'](https://www.deutsche-digitale-bibliothek.de/search/newspaper?query=vitamin*) im deutschen Zeitungsportal.
+
+## Bundestag
+
+Lange, Kai-Robin and Jentsch, Carsten, ['SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments'](https://berd-platform.de/records/g3225-rba63), Proceedings of the 3rd Workshop on Computational Linguistics for Political Text Analysis @ KONVENS 2023. 
+
+G.H. Brundtland et.al., [Our Common Future. Report of the World Commission on Environment and Development](https://www.brundtland.co.za/other-publication/brundtland-report-1987-our-common-future/) (1987)
+
+[Einführung neuer Wörter pro Jahr im Bundestag](new_words_per_year.html)
+
+
+
+![](images/talks2.jpeg){fig-align="left"}
