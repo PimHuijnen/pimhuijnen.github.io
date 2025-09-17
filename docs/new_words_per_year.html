@@ -1,0 +1,946 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>new_words_per_year – Pim Huijnen</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-6fb6c03c9d5acbdc856034bdb83ab84e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="Pim Huijnen">
+<meta property="og:site_name" content="Pim Huijnen">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/mainpage.jpg" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Pim Huijnen</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./talks.html"> 
+<span class="menu-text">Talks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#einführung-neuer-wörter-pro-jahr-im-bundestag" id="toc-einführung-neuer-wörter-pro-jahr-im-bundestag" class="nav-link active" data-scroll-target="#einführung-neuer-wörter-pro-jahr-im-bundestag">Einführung neuer Wörter pro Jahr im Bundestag</a>
+  <ul class="collapse">
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section">1950:</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">1951:</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">1952:</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">1953:</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">1954:</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">1955:</a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">1956:</a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7">1957:</a></li>
+  <li><a href="#section-8" id="toc-section-8" class="nav-link" data-scroll-target="#section-8">1958:</a></li>
+  <li><a href="#section-9" id="toc-section-9" class="nav-link" data-scroll-target="#section-9">1959:</a></li>
+  <li><a href="#section-10" id="toc-section-10" class="nav-link" data-scroll-target="#section-10">1960:</a></li>
+  <li><a href="#section-11" id="toc-section-11" class="nav-link" data-scroll-target="#section-11">1961:</a></li>
+  <li><a href="#section-12" id="toc-section-12" class="nav-link" data-scroll-target="#section-12">1962:</a></li>
+  <li><a href="#section-13" id="toc-section-13" class="nav-link" data-scroll-target="#section-13">1963:</a></li>
+  <li><a href="#section-14" id="toc-section-14" class="nav-link" data-scroll-target="#section-14">1964:</a></li>
+  <li><a href="#section-15" id="toc-section-15" class="nav-link" data-scroll-target="#section-15">1965:</a></li>
+  <li><a href="#section-16" id="toc-section-16" class="nav-link" data-scroll-target="#section-16">1966:</a></li>
+  <li><a href="#section-17" id="toc-section-17" class="nav-link" data-scroll-target="#section-17">1967:</a></li>
+  <li><a href="#section-18" id="toc-section-18" class="nav-link" data-scroll-target="#section-18">1968:</a></li>
+  <li><a href="#section-19" id="toc-section-19" class="nav-link" data-scroll-target="#section-19">1969:</a></li>
+  <li><a href="#section-20" id="toc-section-20" class="nav-link" data-scroll-target="#section-20">1970:</a></li>
+  <li><a href="#section-21" id="toc-section-21" class="nav-link" data-scroll-target="#section-21">1971:</a></li>
+  <li><a href="#section-22" id="toc-section-22" class="nav-link" data-scroll-target="#section-22">1972:</a></li>
+  <li><a href="#section-23" id="toc-section-23" class="nav-link" data-scroll-target="#section-23">1973:</a></li>
+  <li><a href="#section-24" id="toc-section-24" class="nav-link" data-scroll-target="#section-24">1974:</a></li>
+  <li><a href="#section-25" id="toc-section-25" class="nav-link" data-scroll-target="#section-25">1975:</a></li>
+  <li><a href="#section-26" id="toc-section-26" class="nav-link" data-scroll-target="#section-26">1976:</a></li>
+  <li><a href="#section-27" id="toc-section-27" class="nav-link" data-scroll-target="#section-27">1977:</a></li>
+  <li><a href="#section-28" id="toc-section-28" class="nav-link" data-scroll-target="#section-28">1978:</a></li>
+  <li><a href="#section-29" id="toc-section-29" class="nav-link" data-scroll-target="#section-29">1979:</a></li>
+  <li><a href="#section-30" id="toc-section-30" class="nav-link" data-scroll-target="#section-30">1980:</a></li>
+  <li><a href="#section-31" id="toc-section-31" class="nav-link" data-scroll-target="#section-31">1981:</a></li>
+  <li><a href="#section-32" id="toc-section-32" class="nav-link" data-scroll-target="#section-32">1982:</a></li>
+  <li><a href="#section-33" id="toc-section-33" class="nav-link" data-scroll-target="#section-33">1983:</a></li>
+  <li><a href="#section-34" id="toc-section-34" class="nav-link" data-scroll-target="#section-34">1984:</a></li>
+  <li><a href="#section-35" id="toc-section-35" class="nav-link" data-scroll-target="#section-35">1985:</a></li>
+  <li><a href="#section-36" id="toc-section-36" class="nav-link" data-scroll-target="#section-36">1986:</a></li>
+  <li><a href="#section-37" id="toc-section-37" class="nav-link" data-scroll-target="#section-37">1987:</a></li>
+  <li><a href="#section-38" id="toc-section-38" class="nav-link" data-scroll-target="#section-38">1988:</a></li>
+  <li><a href="#section-39" id="toc-section-39" class="nav-link" data-scroll-target="#section-39">1989:</a></li>
+  <li><a href="#section-40" id="toc-section-40" class="nav-link" data-scroll-target="#section-40">1990:</a></li>
+  <li><a href="#section-41" id="toc-section-41" class="nav-link" data-scroll-target="#section-41">1991:</a></li>
+  <li><a href="#section-42" id="toc-section-42" class="nav-link" data-scroll-target="#section-42">1992:</a></li>
+  <li><a href="#section-43" id="toc-section-43" class="nav-link" data-scroll-target="#section-43">1993:</a></li>
+  <li><a href="#section-44" id="toc-section-44" class="nav-link" data-scroll-target="#section-44">1994:</a></li>
+  <li><a href="#section-45" id="toc-section-45" class="nav-link" data-scroll-target="#section-45">1995:</a></li>
+  <li><a href="#section-46" id="toc-section-46" class="nav-link" data-scroll-target="#section-46">1996:</a></li>
+  <li><a href="#section-47" id="toc-section-47" class="nav-link" data-scroll-target="#section-47">1997:</a></li>
+  <li><a href="#section-48" id="toc-section-48" class="nav-link" data-scroll-target="#section-48">1998:</a></li>
+  <li><a href="#section-49" id="toc-section-49" class="nav-link" data-scroll-target="#section-49">1999:</a></li>
+  <li><a href="#section-50" id="toc-section-50" class="nav-link" data-scroll-target="#section-50">2000:</a></li>
+  <li><a href="#section-51" id="toc-section-51" class="nav-link" data-scroll-target="#section-51">2001:</a></li>
+  <li><a href="#section-52" id="toc-section-52" class="nav-link" data-scroll-target="#section-52">2002:</a></li>
+  <li><a href="#section-53" id="toc-section-53" class="nav-link" data-scroll-target="#section-53">2003:</a></li>
+  <li><a href="#section-54" id="toc-section-54" class="nav-link" data-scroll-target="#section-54">2004:</a></li>
+  <li><a href="#section-55" id="toc-section-55" class="nav-link" data-scroll-target="#section-55">2005:</a></li>
+  <li><a href="#section-56" id="toc-section-56" class="nav-link" data-scroll-target="#section-56">2006:</a></li>
+  <li><a href="#section-57" id="toc-section-57" class="nav-link" data-scroll-target="#section-57">2007:</a></li>
+  <li><a href="#section-58" id="toc-section-58" class="nav-link" data-scroll-target="#section-58">2008:</a></li>
+  <li><a href="#section-59" id="toc-section-59" class="nav-link" data-scroll-target="#section-59">2009:</a></li>
+  <li><a href="#section-60" id="toc-section-60" class="nav-link" data-scroll-target="#section-60">2010:</a></li>
+  <li><a href="#section-61" id="toc-section-61" class="nav-link" data-scroll-target="#section-61">2011:</a></li>
+  <li><a href="#section-62" id="toc-section-62" class="nav-link" data-scroll-target="#section-62">2012:</a></li>
+  <li><a href="#section-63" id="toc-section-63" class="nav-link" data-scroll-target="#section-63">2013:</a></li>
+  <li><a href="#section-64" id="toc-section-64" class="nav-link" data-scroll-target="#section-64">2014:</a></li>
+  <li><a href="#section-65" id="toc-section-65" class="nav-link" data-scroll-target="#section-65">2015:</a></li>
+  <li><a href="#section-66" id="toc-section-66" class="nav-link" data-scroll-target="#section-66">2016:</a></li>
+  <li><a href="#section-67" id="toc-section-67" class="nav-link" data-scroll-target="#section-67">2017:</a></li>
+  <li><a href="#section-68" id="toc-section-68" class="nav-link" data-scroll-target="#section-68">2018:</a></li>
+  <li><a href="#section-69" id="toc-section-69" class="nav-link" data-scroll-target="#section-69">2019:</a></li>
+  <li><a href="#section-70" id="toc-section-70" class="nav-link" data-scroll-target="#section-70">2020:</a></li>
+  <li><a href="#section-71" id="toc-section-71" class="nav-link" data-scroll-target="#section-71">2021:</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<section id="einführung-neuer-wörter-pro-jahr-im-bundestag" class="level2">
+<h2 class="anchored" data-anchor-id="einführung-neuer-wörter-pro-jahr-im-bundestag">Einführung neuer Wörter pro Jahr im Bundestag</h2>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1950:</h3>
+<p>herren damen antrag worden abg wort spd nr deutschen ausschuss heute frage schon herrn müssen ja gesetz zuruf mehr drucksache möchte darf sagen regierung beifall bundesregierung richtig darauf millionen kommen</p>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">1951:</h3>
+<p>luetkens kemritz montanunion feiertage investitionshilfe kroupa wahlorgan hohenfels bundesjugendplans ago gatt kreyssig umdrucke heimatauskunftstellen mindestrenten arbeitsdirektor abstimmungsbezirke sowjetzonalen xxvi wohnungseigentümer grenzschutzbehörden sondereigentum odenthal schweizerischen bundesgrenzschutz einheitsgesellschaften staatsgeheimnis grenzschutzpolizei dienstposten übergangsgehälter</p>
+</section>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">1952:</h3>
+<p>entschuld fu zusatzfrage gesamtbetriebsrat evg knechtsand generalvertrages einigungsstelle molkerei gesamtbetriebsrats vorbehaltsrechte gema branntweinwirtschaft deutschlandvertrag notstandsklausel viermächteverhandlungen wehrgewalt generalkriegsvertrag verteidigungsvertrag geheimorganisation behördenhandel schwarzarbeiter mulert personalvertretungsgesetz knechtsandes sektkellereien nationalarmee knechtsands vob betriebsobmann</p>
+</section>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">1953:</h3>
+<p>hilfsstimme präferenz bundesbank oeftering meincke mehrheitswahlrechts schuldenabkommens anthony angenfort braumalz bundessozialgerichts handelsvertreters umstellungsergänzungsgesetz streitsache graphischen handschumacher altbanken kultivierungseinrede steuerverwaltungskosten buchführungspflicht notenbanksystem ausgleichsanspruches rückvergütungen vries handelssaatgut bundeslisten landessozialgerichte siedlungsbewerber überschussgütern mietrichtsätze</p>
+</section>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">1954:</h3>
+<p>zonenrandgebiet zonenrandgebiete zonenrandgebieten kindergeldgesetz familienminister ergänzungsabgabe verkehrsfinanzgesetz rasner bender niederalt kindergeldes verkehrsfinanzgesetzes strassenentlastungsgesetz hellwig kindergeldanpassungsgesetz rinke cillien stingl wegekosten finanzanpassungsgesetz altrenten volkszensur johns leiske condor vockenhausen jentzsch löhr kindergeldgesetzes seiboth</p>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">1955:</h3>
+<p>freiwilligengesetz bundesverteidigungsminister personalgutachterausschuss kostenvergleichsmiete soldatengesetz schmeisser bundesmietengesetz luftfahrtindustrie bundeswehr kulturbesitz carte blanche personalgutachterausschusses personalkonzession paritätsgesetze radioaktiven ziebell sicherheitsausschusses radioaktivität zwangsschlichtung sonderzulagen reichskonkordats soldatengesetzes bundesverteidigungsministerium atomkrieges wiedergutmachungsausschuss atomaren personalversammlungen mineralölgesellschaften massenvernichtungswaffen</p>
+</section>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">1956:</h3>
+<p>zenker fvp juliusturm eurofima studentenbundes grundwehrdienstes berufsheer studentenbund bergmannsprämie grundentwurf häftlingshilfegesetz euratom wehrbeauftragten hirschmann gewerbesteuersenkung kernbrennstoffe längerdienenden verteidigungsdienstpflicht jugendarchivs überbrückungszahlung kernbrennstoffen atomkommission grossadmiral totverwertung landbeschaffungsgesetzes rheinseitenkanals lohmar vilshofen warenautomaten accord</p>
+</section>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">1957:</h3>
+<p>anl atomgesetzes bergmannsrente ausfallzeiten iller lohnwertrente volksaktie kriegsfolgengesetz wehrstrafgesetz rabattkartell ausbauplan sueskrise seemannsgesetz arreststrafe saarklausel versuchsexplosionen rentenbemessungsgrundlage hemsath kommunalklausel kriegsfolgengesetzes trakehner vergütungsfähig wrasmann wehrstrafgesetzes heizölnovelle krankenversicherungsreform julitz wissenschaftsrat malzindustrie rentnerbrief</p>
+</section>
+<section id="section-8" class="level3">
+<h3 class="anchored" data-anchor-id="section-8">1958:</h3>
+<p>barzel sozialbericht scherpenberg ewg harm atomwaffenfreien zoglmann stoltenberg kreitmeyer atomwaffenfreie burgbacher logemann claussen crossman bading winterbau mischnick memmel eilers aigner mosbach rutschke matadore rapacki görgen reith frede weimer dröscher scharnowski</p>
+</section>
+<section id="section-9" class="level3">
+<h3 class="anchored" data-anchor-id="section-9">1959:</h3>
+<p>heizölsteuer kohlenzoll deutschlandplan singularzulassung kilb unterbach konzentrationsvorgänge einfuhrverträge anwaltserfordernis rüstungsbegrenzungszone berichtigungsaktien energiemarkt spork sozialbonus klemmert kohlezoll flehinghaus murr starfighter prosperitätsklausel münemann eisele landwirtschaftszählung zechenanlagen urteilsschelte anwaltszwanges abzweigstecker stilwandel kapitalberichtigung güde</p>
+</section>
+<section id="section-10" class="level3">
+<h3 class="anchored" data-anchor-id="section-10">1960:</h3>
+<p>efta baulandsteuer entwicklungspolitik guinea carstens weltflüchtlingsjahr deutschlandfunk gemeindepfennig bebauungsplanes bebauungsplan eichmann auslandsfunk kontrastprogramm vorsorgehilfe beschleunigungsplan konkurrenzprogramm veränderungssperre unternehmerfreibetrag notdienstgesetz theil reiseandenken spannungsfall imle reichsbankanteile rollmann kontaktausschuss reichsnotarordnung vorsorgeuntersuchungen apothekenbetriebsordnung beratungsärztlichen</p>
+</section>
+<section id="section-11" class="level3">
+<h3 class="anchored" data-anchor-id="section-11">1961:</h3>
+<p>kennedy kindergeldkasse allparteienregierung nachbarortslinienverkehr margentarife bundesärzteordnung karenztag leihbüchereien tarifkommissionen zuweisungsverfahren einrichtungshilfe kriegswaffenkontrollgesetz regellohns fernsehurteil johnson touristikunternehmen anhörverfahren margentarifen zweitkindergeldes altersgelder finanzamtlösung dego ungestempelte koalitionsausschuss gewährleistungsfrist truppendienstrichter verfassungskonform währungsaufwertung faktorenrente betriebsprüfungsordnung</p>
+</section>
+<section id="section-12" class="level3">
+<h3 class="anchored" data-anchor-id="section-12">1962:</h3>
+<p>ahlers hüttebräuker harmonisierungsnovelle ausbildungsförderung warentests empfehlungsschreiben abmahnung peiter eurocontrol rationalisierungsverband flitz abschöpfungssätze bundesgesundheitsministerium liehr kaumann rahmenzusagen glombig abschöpfungssätzen tapiokamehl marktorganisation toyka dickopf aussenwirtschaftsverordnung weihnachtsgänse vh wellmann betonleitplanken bögler sozialpaketes freyh</p>
+</section>
+<section id="section-13" class="level3">
+<h3 class="anchored" data-anchor-id="section-13">1963:</h3>
+<p>argoud filbinger wohnbeihilfengesetz wohnbeihilfe eisbrecher amtsbl bornemann jugendzahnpflege waldkirch mietrechtlicher schuldstrafrecht neureut warentestinstitut eröffnendem raumordnungsbericht herstellungsdatums begründungszwang flämig grossrohre staatshandelsländern wissenschaftsminister resozialisierung ernährungssicherstellungsgesetz bremervörde soldatenheime planifikation nordbrücke pumpgemeinschaft grenzausgleich györfi</p>
+</section>
+<section id="section-14" class="level3">
+<h3 class="anchored" data-anchor-id="section-14">1964:</h3>
+<p>gumbel grundsatzrevision nagold moersch bildungsnotstand mlf zweierunion fernschreibüberwachung mikat bildungsgefälle kollbach bruchreis silberstein vorwärtsverteidigung grossheppach teststoppabkommens sozialinvestitionen festlandsockel upjever vortragsreisen postabgabe energieversorgungsträger jugendbegegnung zebrastreifen nichtzulassungsbeschwerde schütte härtenovelle presserechtsrahmengesetz pfullendorf schiffahrtspolitik</p>
+</section>
+<section id="section-15" class="level3">
+<h3 class="anchored" data-anchor-id="section-15">1965:</h3>
+<p>haushaltssicherungsgesetz osswald ausbildungszulage ausbildungszulagen hüttenknappschaftlichen formierten wissenschaftsplan haushaltssicherungsgesetzes pressefunk nievenheim gdl tarifvertragsfähigkeit prüfungsrechte marktstrukturfonds realschulreife bürohauses landstuhl kürzungsprogramm finanzanarchie march rambouillet kinderstationen hüttenknappschaftliche alleinvertretungsanspruch vertrauensentzug agrarfinanzierung preissteigerungsrate fusionsvertrag marqués zerbe</p>
+</section>
+<section id="section-16" class="level3">
+<h3 class="anchored" data-anchor-id="section-16">1966:</h3>
+<p>stabilitätsgesetz friedensnote raffert apel finanzplanungsgesetz stabilisierungsgesetz friderichs zeitungsaustausch kreditplafondierung stabilitätsgesetzes finanzvorausschau konzertierten berufsforschung wörner staratzke häfele nichtnuklearen abelein springorum röhner milchpolitik klarstand inflationsrate schmidhuber orgass haehser finanzplanungsgesetzes verstromungsgesetz stabilisierungsgesetzes kilometerpauschale</p>
+</section>
+<section id="section-17" class="level3">
+<h3 class="anchored" data-anchor-id="section-17">1967:</h3>
+<p>schöllhorn finanzänderungsgesetz finanzänderungsgesetzes symmetrie kreditfinanzierungsgesetz ankaufspreises atomsperrvertrag zielprojektion arbeitsförderungsgesetz stoph kreditfinanzierungsgesetzes airbus investitionsprämie schah arbeitsförderungsgesetzes flankierenden abhörgeräte eskalation brennbuch rentnerkrankenversicherungsbeitrag flankierende wohnungszählungsgesetz talfahrt kanzlerzusagen seilbahnen trainingszentren barerstattungen nichtverbreitungsvertrages altvorräteentlastung schwefliger</p>
+</section>
+<section id="section-18" class="level3">
+<h3 class="anchored" data-anchor-id="section-18">1968:</h3>
+<p>diehl sonderziehungsrechte aufklärungslücke ruhnau arbeitssicherstellungsgesetz establishment trennscheibe pausch flugsicherungsbeamten nettokreditaufnahme arbeitssicherstellungsgesetzes finanzplanungsrates steuerfront abwrackaktion sonderangebot baltes gemeinschaftsprogrammes toxoplasmose hausach nkf küffner flottillenadmiral zehnerklubs haushaltsgrundsätzegesetz abschlussgebühr gesamtschule familienbericht trennwandverordnung drittelparität doping</p>
+</section>
+<section id="section-19" class="level3">
+<h3 class="anchored" data-anchor-id="section-19">1969:</h3>
+<p>riedl nichteheliche fusionskontrolle niegel esters berufsbildungsgesetz vorbeugungshaft nichtaufwertung aktionsprogramme sozialtherapeutische dasch sozialtherapeutischen lebach vorbeugehaft führungsaufsicht bruttolohnfortzahlung bussmann berufsbildungsgesetzes sportrat dattendorfer hochschulbauförderungsgesetzes susset projektgruppe gerichtshilfe hubmann pick sieglerschmidt grashey maassen beurkundungswesen</p>
+</section>
+<section id="section-20" class="level3">
+<h3 class="anchored" data-anchor-id="section-20">1970:</h3>
+<p>umweltschutz griesau umweltschutzes konjunktursperre strukturbericht gallus konjunkturzuschlag steffen bildungsanleihe barm aufwertungsausgleich krall klasen coreth urbaniak birckholtz förderungsschwelle storck entführern tatsachenbeschreibung informationssperre zielschwelle aufwertungsausgleichs schnellbaumassnahmen konjunkturzuschlags jusos gemeindeverkehrsfinanzierungsgesetz konjunktursperren altersjahrgangs rechtskorrekturamnestie</p>
+</section>
+<section id="section-21" class="level3">
+<h3 class="anchored" data-anchor-id="section-21">1971:</h3>
+<p>farthmann gesundheitsbericht umweltprogramm ostverträge vergleichsmiete floaten mützelburg dreckmann graduiertenförderungsgesetz umweltprogramms arzneimittelsicherheit vring halbzeitbilanz falin intensivprogramm sprecherausschüsse kse versorgungsausgleich apl abteilungsversammlungen gmd hemfler stagflation chilenen bewertungsänderungsgesetz versorgungsausgleichs verstärkungsprogramm gottschalch davis aufwendungsdarlehen</p>
+</section>
+<section id="section-22" class="level3">
+<h3 class="anchored" data-anchor-id="section-22">1972:</h3>
+<p>erkel cma machens mandel verplombung aussensteuergesetz haftrechtsnovelle verfügungsbereitschaft waffenbesitzkarte rönn streikunterstützungen disler cantzler haarnetze zuverdienst entlastungsgesetz haftrechtes wanderungsausgleich inlandsaufklärung mediengefahren dienstgerechtigkeit eintragungsgrenze ersatzdienstrechtlicher wehrrechtlicher langwaffen hartnack verplombungsgesetz carillo menth anästhesisten</p>
+</section>
+<section id="section-23" class="level3">
+<h3 class="anchored" data-anchor-id="section-23">1973:</h3>
+<p>lambsdorff stabilitätsabgabe ennepetal gerster gansel grundlagenvertrag zeitel ey möllemann nordlohne schoeler glotz conradi pfeffermann schuchardt waigel vohrer todenhöfer waffenschmidt hölscher grundlagenvertrages grundvertrags thürk hornhues benedix abtreibungen tillmann stavenhagen verhülsdonk emstek</p>
+</section>
+<section id="section-24" class="level3">
+<h3 class="anchored" data-anchor-id="section-24">1974:</h3>
+<p>guillaume bölling verfassungsdebatte grützmann erziehungsgeld markierungspunkten energieforschungsprogramm hillermeier ausbildereignungsverordnung minderpreisverträge lernort einkommensteuerreformgesetz energiekonferenz heichert zollbereich zwangsernährung verhandlungspflicht richtgeschwindigkeiten laermann aktenordnung ölländer auszahlungsanordnung richtgeschwindigkeit drenkmann einstellungsbehörde bürgerbeteiligung waschmittelgesetz guillaumes töns balling</p>
+</section>
+<section id="section-25" class="level3">
+<h3 class="anchored" data-anchor-id="section-25">1975:</h3>
+<p>haushaltsstrukturgesetz sondergeneralversammlung wyhl weltrezession ktk haushaltsstrukturgesetzes schleifenbaum ausreiseprotokoll lomé rentenabkommen krankenhausapotheken gesundheitsabkommen dreieckskooperation studentenbereichs pstsekr partnerrente wohnungsmodernisierung heysing trauerbeflaggung berlinförderung erlösstabilisierung grimming beschäftigungshilfen röhlig adoptionsvermittlungsstellen wohnbesitzmodell müntefering familienberichts kapverdischen bissau</p>
+</section>
+<section id="section-26" class="level3">
+<h3 class="anchored" data-anchor-id="section-26">1976:</h3>
+<p>rico zeittakt vdj gartenschläger beschäftigungssystem kampfunterstützungstruppen kreibaum mettke patentstelle meeresbodenbehörde nahverkehrsbereichen landwirtschaftsklausel sperrguthabenvereinbarung malawi zwangsadoptionen versicherungslösung einzelzulassung zusagenregelung ausbildungsplatzförderungsgesetz vorkaufsrechte blockpartei westfeld jamaika onkologie aufstiegshilfe krebshilfe transferaufträge elchlepp kautionsregelung gtz</p>
+</section>
+<section id="section-27" class="level3">
+<h3 class="anchored" data-anchor-id="section-27">1977:</h3>
+<p>steger hasinger riesenhuber spöri massenbach daweke cronenberg langner kühbacher stutzer rühe gattermann höpfinger würzbach kittelmann gerstein luster hüsch thüsing regenspurger konjunkturabschlag broll prangenberg ludewig diederich wisniewski angermeyer kostendämpfungsgesetz wartenberg hoffacker</p>
+</section>
+<section id="section-28" class="level3">
+<h3 class="anchored" data-anchor-id="section-28">1978:</h3>
+<p>nico realsplitting mängelbericht solaranlagen erftstadt rheumabekämpfung verdachtskontrollen tugendhat heizenergie bevorratungskosten strafverfahrensänderungsgesetz alternativempfehlungen forschungsstation asylsachen wohnumfeldverbesserung silberland dkfz konsultativrunde pacepa koordinierungsstab energieeinsparenden erdatmosphäre rollbretter transparenzliste scheeler formenkreises angebotsorientierten entgeltsteigerung fliesen generica</p>
+</section>
+<section id="section-29" class="level3">
+<h3 class="anchored" data-anchor-id="section-29">1979:</h3>
+<p>harrisburg regelanfrage monierbau tschessiounias holocaust zumpfort krebskonferenz czempiel routineanfrage unverjährbar widerspruchslösung chemikaliengesetz kinderbetreuungskosten jablonski kinderbetreuungsbetrag einwilligungslösung verjährungsentscheidung sonderablieferung mindestverbüssungsdauer vietnamflüchtlinge wimbledon schneekatastrophe angebotsschule granzow mutterschaftsurlaubsgesetz völkerstrafrechtlichen sinamos bum verjährungsunterbrechung guadeloupe</p>
+</section>
+<section id="section-30" class="level3">
+<h3 class="anchored" data-anchor-id="section-30">1980:</h3>
+<p>afghanistans franghi kindergrundfreibetrag betäubungsmittelrechts sommerspielen wechselschichtdienst fremdkommerzialisierung leistungsbilanzdefizits weissenhofsiedlung lärmvorsorge menschenrechtserziehung superabgabe weserstadion billigtarif olympiaboykott rechtsentscheids schönhöfer menschenrechtsorganisationen afeb scheinasylanten meldegeheimnis frequenzmodulation esa lauschoperationen seriennummern stiegler stahlforschungsprogramm therapieplätzen golfregion eritreer</p>
+</section>
+<section id="section-31" class="level3">
+<h3 class="anchored" data-anchor-id="section-31">1981:</h3>
+<p>kansy dallmeyer weirich herberholz catenhusen repnik bugl subventionsabbaugesetz lammert dressler hinsken nichtregierungsorganisationen linsmeier bohl lowack gilges rossmanith fellner roitzsch herkenrath dörflinger weyel sielaff bredehorn magin jagoda bernrath weinhofer poss heistermann</p>
+</section>
+<section id="section-32" class="level3">
+<h3 class="anchored" data-anchor-id="section-32">1982:</h3>
+<p>haushaltsbegleitgesetzes beschäftigungsförderungsgesetz haushaltsbegleitgesetz kleingartenanlagen stocksolide beschäftigungsförderungsgesetzes beschäftigungshaushalt burda austermann walesa kleingewerbeförderung benecke flessner conventional bauherrenmodellen pkk zusatztaschengeld wegharken werkvertragsarbeitnehmer volldarlehen herbstkontrolle unifil jahrhundertvertrag fares polenkrise insolvenzrücklage sbk mobiliarsicherheiten teilhauptfeststellungsgesetz staffelmietvereinbarung</p>
+</section>
+<section id="section-33" class="level3">
+<h3 class="anchored" data-anchor-id="section-33">1983:</h3>
+<p>reents stratmann burgmann kelly schwenninger feilcke krizsan reetz potthast hoss schoppe jannsen altun dans horacek göhner carstensen drabiniok verheyen bard meeresschildkröten grünbeck hornung kemal frauenhäuser hauchler uldall odendahl toetemeyer rönsch</p>
+</section>
+<section id="section-34" class="level3">
+<h3 class="anchored" data-anchor-id="section-34">1984:</h3>
+<p>milchrente ferlemann abouchar bkb bhopal kassetten volkszählungsurteil milchkontingentierung pseudokrupp dempwolf schadstoffarmen praxisphase manöverbehinderungen abgasarmen gefahrstoffverordnung kollegiaten kvae tempolimits videofilme einert haftsummenzuschlag technikfolgenabschätzung amr steuerbereinigungsgesetz wieskirche götzer fremdreinigung maschinenlesbare haftungszuschlag binnenorientierung</p>
+</section>
+<section id="section-35" class="level3">
+<h3 class="anchored" data-anchor-id="section-35">1985:</h3>
+<p>ströbele schierholz senfft bueb eureka tatge hönes borgmann rusche gerlingen süssmuth dierstorf auhagen tiedge pöppl ranker erziehungsurlaub gorbatschow hellenbroich teltschik hydrazin fangunion erziehungsgeldgesetz sobernheimer auswahlgespräch hamburgneustadt kabinettberichterstattung bioethanol technologiegemeinschaft waldschadensbericht</p>
+</section>
+<section id="section-36" class="level3">
+<h3 class="anchored" data-anchor-id="section-36">1986:</h3>
+<p>tschernobyl lappas becquerel berners umwelttag schleppnetzfahndung marktentlastungsprogramm braunmühl reaktorkatastrophe este kuhbier gorbatschows neutralitätsausschuss kröninger halifax auszubildendenvertretung viehof amöneburg parkkralle umweltausschusses kirchholz frauenministerin umwelttages streitkräfteziel strommasten dioxan meisterprüfungsverordnung strahlenschutzvorsorgegesetz steuerbescheinigungsverfahren jugendbegegnungsstätte</p>
+</section>
+<section id="section-37" class="level3">
+<h3 class="anchored" data-anchor-id="section-37">1987:</h3>
+<p>sellin lippelt vennegerts wollny flinner saibold götte ebermann irmer wüppesahl weiermann hillerich teubner scherrer wiefelspütz hüser diller bulmahn niehuis hämmerle uelhoff ganseforth seidenthal grossmann zumkley leidinger ritterhude koltzsch olms harries</p>
+</section>
+<section id="section-38" class="level3">
+<h3 class="anchored" data-anchor-id="section-38">1988:</h3>
+<p>dehp gesundheitsreformgesetz depfa produktionsaufgaberente strukturhilfegesetz montankonferenz quellensteueramt heydemann referenzstrecke grg bst festbetragsregelung dara vanunu noriega flugschauen giftgaseinsätze altersteilzeit rahmendienstzeit umflaggen festbetragsmodell aussiedlerinnen regierungsbefragung revierausgleich flugtagen rohstoffaktivitäten atomskandal ressourcenaktivitäten montanrunde wildsterben</p>
+</section>
+<section id="section-39" class="level3">
+<h3 class="anchored" data-anchor-id="section-39">1989:</h3>
+<p>rabta meneses vogl friess wittmoldt bankenmacht kastner imhausen vereinsförderungsgesetz ökosteuer danesh schätzle giftgasfabrik bauschadensbericht rushdie terminbörse eingliederungsgeld kinderkommission sicherheitskultur spiesen technikberatung naturschutzabgabe orthoptistinnen demokratiebewegung atomabschreckung mordauftrag escherde dvu meisner wurfsendung</p>
+</section>
+<section id="section-40" class="level3">
+<h3 class="anchored" data-anchor-id="section-40">1990:</h3>
+<p>pds einigungsvertrag treuhandanstalt umweltunion einigungsvertrages diestel umweltrahmengesetz wahlvertrag wismut dewitz bürgerbewegungen dsu thierse csfr vereinigungsprozess tropenwaldschutz massaua steinitz enkelmann romberg dörfler heltzig arbeitnehmerhaftung widerstandskoalition stolfa bitterfeld wollenberger haschke roske einigungsvertrags</p>
+</section>
+<section id="section-41" class="level3">
+<h3 class="anchored" data-anchor-id="section-41">1991:</h3>
+<p>larcher albowitz kriedner bläss titze koppelin schwanhold lederer koschyk ilja bonese hoyerswerda kozloduj konstanze schalck kampeter solidaritätszuschlag altersübergangsgeld iwersen gleicke altbundesländern habermann pofalla knaape seibel mosdorf mascher gibtner personalstärkegesetz raidel</p>
+</section>
+<section id="section-42" class="level3">
+<h3 class="anchored" data-anchor-id="section-42">1992:</h3>
+<p>gus dsd vermögensrechtsänderungsgesetz schnittler bürgerkriegsflüchtlinge riegert ringkamp premnitz sikora margarethenhütte fujimori alcor risikostrukturausgleich zinsabschlag scharfenstein altschuldenfrage godewind gerechtigkeitslücke vermögensrechtsänderungsgesetzes kriegsfolgenbereinigungsgesetz dkk sissy südumfahrung standortsicherungsgesetz grossdubrau gewinnaufspürungsgesetz schönburgglauchau probestudium cetiner bürgerkriegsflüchtlingen</p>
+</section>
+<section id="section-43" class="level3">
+<h3 class="anchored" data-anchor-id="section-43">1993:</h3>
+<p>bischofferode belet uen entgeltfortzahlungsgesetz fkp iwc unosom drittstaatenregelung standortbericht blutprodukten solidarpaktverhandlungen kleinwale föj boutros grams niedenthal fledermäuse fallahian tuzla dwa ahmadis skwpg energiekonsensgespräche geldwäschegesetz krebsmaus asienkonzept entgeltfortzahlungsgesetzes messlösung fraktionsgesetz tlg</p>
+</section>
+<section id="section-44" class="level3">
+<h3 class="anchored" data-anchor-id="section-44">1994:</h3>
+<p>wto tauss medizinprodukte korfu parr schirinowski familienleistungsausgleich glasbläser alpenkonvention szwed magnetschwebebahnplanungsgesetz srü dressen grundstoffüberwachungsgesetz christos thorp neutronenquelle schlitzwand medizinprodukten zukunftsministerium minschen jakubeit technologierates ugilec hüüt fünfliterauto rückholaktion partnerschaftsgesellschaft notimpfung deit</p>
+</section>
+<section id="section-45" class="level3">
+<h3 class="anchored" data-anchor-id="section-45">1995:</h3>
+<p>mochovce höfken raethjen mietenüberleitungsgesetz hovermann labsch temelin universaldienst brent antipersonenminen aktionsplattform regulierungsbehörde bohunice pyrethroiden monistik bundesumweltministerin telekommunikationsgesetz jingsheng reflexionsgruppe nestmann aufwertungsfestigkeit einsatzverbandes stadtbank grosny heyer welajati fischler zwischenerwerber kowaljow zukunftsministers</p>
+</section>
+<section id="section-46" class="level3">
+<h3 class="anchored" data-anchor-id="section-46">1996:</h3>
+<p>postfilialen afrg schoene hirntod göllner heiderich gestaltungsleistungen vernetzungsstelle upahl hsp cwü transplantationsmedizin hirnfunktionen ostwerften stimmausweis ifa wohngeldüberleitungsgesetz tkg filialkonzept privatagenten hirnfunktion flächenerwerbsverordnung michendorf teichmüller bezügefortzahlung techint wipianer sfor eigentumsfristengesetz scientologen</p>
+</section>
+<section id="section-47" class="level3">
+<h3 class="anchored" data-anchor-id="section-47">1997:</h3>
+<p>umweltplan grundakte immunitätenprotokoll mikrotesla iukdg bürsch nachhaltigkeitsstrategie unternehmensübernahmen übernahmekodex erwerbsminderungsrente wehrmachtsausstellung dolly demenzkranken effizienzrendite sangershausen hormonell beschäftigungsgipfels goll sportsicherung verbrauchsteuerabteilung kofi amateurfunkgesetz oderregion rehaeinrichtungen blockadevorwurf betreuungsrechts gsa signaturgesetz sarkuhi kontrag</p>
+</section>
+<section id="section-48" class="level3">
+<h3 class="anchored" data-anchor-id="section-48">1998:</h3>
+<p>stollmann pallas loske sylvia vieheinheitenstaffel kenzler divag kzbv siemann evelyn gebhardt lötzer aribert vosshoff deligöz ekin brase folta brandner edathy investitionsabkommen lietz helias bodewig girisch krampkarrenbauer humme romanes gehb dött</p>
+</section>
+<section id="section-49" class="level3">
+<h3 class="anchored" data-anchor-id="section-49">1999:</h3>
+<p>tampere eisenman hartnagel kosovaren interfet roos kandidatenstatus jump tokaimura haushaltssanierungsgesetzes zeitarbeitsfirmen mifegyne einbürgerungszusicherung generationenbilanz stelenfeld warndatei stiftungskultur schuldeninitiative suchlauf postunterstützungskassen drogenkonsumräumen westtimor beratungsresistent pudlv erziehungsbedarf kfor stiftungsrechtsreform winterbauausschüsse eisenmans abzinsungsgebot</p>
+</section>
+<section id="section-50" class="level3">
+<h3 class="anchored" data-anchor-id="section-50">2000:</h3>
+<p>vonseiten card agrardiesel potenzial feira potenziale scheinselbstständigkeit stammzellen bettin grietje aufseiten steuersenkungsergänzungsgesetz potenziellen rating kostunica substanzielle trockenbau agrardieselgesetz griese kelber potenzielle lebenspartnerschaftsgesetz generationenbilanzen elternzeit ostseekooperation haackes agrardiesels weltstaatsmann sebnitz gnauck</p>
+</section>
+<section id="section-51" class="level3">
+<h3 class="anchored" data-anchor-id="section-51">2001:</h3>
+<p>agrarwende laeken schartau onlinewahlen wohnortprinzips geoinformationen massstäbegesetzes nordallianz talibanregime uranmunition aussengastronomie euroumstellung greencard stadtumbauprogramm religionsprivilegs verbraucherschutzministerin stammzellenforschung gleichstellungsdurchsetzungsgesetz hittfeld osama geodaten gewaltschutzgesetzes fallpauschalensystems antiterrorkoalition chrobog adulten versorgungsänderungsgesetzes steuerverkürzungsbekämpfungsgesetz wirkungsgleich antiterrorismuskonvention</p>
+</section>
+<section id="section-52" class="level3">
+<h3 class="anchored" data-anchor-id="section-52">2002:</h3>
+<p>lötzsch acrylamid nitrofen stammzelllinien isaf djerba stokar karzai birgitt kompetenzteam neuforn bildungsberichterstattung riesterrente dimethoat beitragssatzsicherungsgesetz hajduk lebaycid ostendorff jirga vorbehaltslösung connemann vermittlungsgutscheine loya steuervergünstigungsabbaugesetz pinkwart karsli serowiecki grygier zinsabgeltungsteuer nepad</p>
+</section>
+<section id="section-53" class="level3">
+<h3 class="anchored" data-anchor-id="section-53">2003:</h3>
+<p>kunduz brunkhorst reparaturklausel kauch barwertverordnung nachhaltigkeitsfaktor marko collect allokationsplan gottesbezug reiterstaffel strothmann bunia lena erantwortung uribe justizmodernisierungsgesetz hilbrecht kleinunternehmerförderungsgesetz monuc mauteinführung konventsentwurf gmg anda ehrbeauftragten lautenschläger digitalfunks ituri fallpauschalenänderungsgesetz mautsystem</p>
+</section>
+<section id="section-54" class="level3">
+<h3 class="anchored" data-anchor-id="section-54">2004:</h3>
+<p>darfur wissing faizabad reisebüroverfahren arbeitsagenturen elvira althea auernhammer addicks reiseschutzpass zusatzbarbetrag tagesbetreuungsausbaugesetz touriste kofler feldbeobachtung beslan öpp anreizregulierung ackerbauverbot zuwanderungsrat wächterrat arbeitsagentur resale juschtschenko einsatzversorgungsgesetz urwaldschutz jugendfreiwilligendienste reiseschutzpässe zuwanderungsrates reiseschutzpassverfahren</p>
+</section>
+<section id="section-55" class="level3">
+<h3 class="anchored" data-anchor-id="section-55">2005:</h3>
+<p>jobgipfel lazar kontenabruf vollkostenfinanzierung ramelow vaterschaftstests unmis freilandeiern finanzkraftklausel volltextdatei vorstandsvergütungen bondsteel jobgipfels kontenabfrage nordseeregion optionskommunen haradinaj stalker bundesnetzagentur zollfahndungsdienstgesetzes antiterrordatei gammelfleisch indexdateien meinhardt gasprom energieausweis moshammer steuerstundungsmodellen linksfraktion toncar</p>
+</section>
+<section id="section-56" class="level3">
+<h3 class="anchored" data-anchor-id="section-56">2006:</h3>
+<p>hochschulpakt hightechstrategie normenkontrollrat nešković integrationsgipfel flugticketabgabe saisonkurzarbeitergeld mittelstandsentlastungsgesetz hochschulpaktes auktionierung kooperationsverbot nouripour transparenzinitiative omid onlinedurchsuchung dorothée sportwetten sanio grundrechteagentur libanoneinsatz pfos regulierungsferien normenkontrollrats energiegipfels scoring streumunition eckpunkteregelung gesprächsleitfaden terrorismusbekämpfungsergänzungsgesetz vertragsarztrechtsänderungsgesetz</p>
+</section>
+<section id="section-57" class="level3">
+<h3 class="anchored" data-anchor-id="section-57">2007:</h3>
+<p>reformvertrag beus steinecke unamid pflegestützpunkte eisel herlitzius erwerbstätigenzuschuss ths mügeln postmindestlohn direktanspruch epas qualifizierungsinitiative eingliederungsbeitrag hybridmission betreuungsgeldes daðdelensevim anteilsverfahren kommunalkombi qualifizierungszuschuss policenmodell ccs klimaschutzhaushalt kavala evonik ampelkennzeichnung kinderbetreuungsausbau vernor diwell</p>
+</section>
+<section id="section-58" class="level3">
+<h3 class="anchored" data-anchor-id="section-58">2008:</h3>
+<p>hdj obama eulex atalanta christival eigenheimrentengesetz rettungspaket bildungsrepublik strengmann kinderregelsätze sozialticket schulbedarfspaket filmerbe dronabinol schulstarterpaket ypsilanti pirateriebekämpfung sozialtickets filmerbes messwesens erdverkabelung medwedew finanzmarktstabilisierungsgesetz rüffert arbeitsschutzstrategie vermittlungsbudget viking nahrungsmittelkrise kifög fdlr</p>
+</section>
+<section id="section-59" class="level3">
+<h3 class="anchored" data-anchor-id="section-59">2009:</h3>
+<p>wachstumsbeschleunigungsgesetz umweltprämie soffin högl zelaya konjunkturpaketen kinderpornografischen bankenrettung krischer kinderpornografische kiesewetter breitbandstrategie aken kriegsverräter arug kriegsverrat liebich frieser tören groschek alpers bildungsstreik wachstumsbeschleunigungsgesetzes facebook malczak gambke birkwald serkan keul kekeritz</p>
+</section>
+<section id="section-60" class="level3">
+<h3 class="anchored" data-anchor-id="section-60">2010:</h3>
+<p>ead bankenabgabe bildungspaket klamt bundesfreiwilligendienst finanzmarkttransaktionsteuer krestel mappus referenzgruppe cgzp bundesarbeitsministerin bildungsketten vulkanasche schottern regelbedarfen validierungsförderung bildungslotsen hofabgabeklausel schwesig lernförderung kernbrennstoffsteuer acs svenchristian jobcenterreform teilhabepaket aschtiani netzpolitik patientenrechtegesetz amnog kreditausfallversicherungen</p>
+</section>
+<section id="section-61" class="level3">
+<h3 class="anchored" data-anchor-id="section-61">2011:</h3>
+<p>fukushima esm ebner nanosilber extremismusklausel unmiss schuldenschnitt kabinenluft asylblg versorgungsstrukturgesetz hebelung fracking donaustrategie troy screenshots liebigstrasse brennelementekugeln funkzellenabfrage demokratieerklärung signalton zoni rentendialog oits teilhabepaketes demografiebericht ausstellungszahlung fiskalunion digitask mediationsgesetz dreierbesetzung</p>
+</section>
+<section id="section-62" class="level3">
+<h3 class="anchored" data-anchor-id="section-62">2012:</h3>
+<p>fiskalpakt fiskalvertrag büssemaker polheim bankenunion todtenhausen hollande entscheidungslösung netzentwicklungsplan hellmich dienstleistungskonzessionen sawade arfst flaminia stöbe managementprämie fiskalpakts altschuldentilgungsfonds sahelregion lebensleistungsrente ied kleinstkapitalgesellschaften fiskalvertrags fiskalpaktes faktenerhebung spartengewerkschaften kleinstgenossenschaften birkner notfallsanitäter cabos</p>
+</section>
+<section id="section-63" class="level3">
+<h3 class="anchored" data-anchor-id="section-63">2013:</h3>
+<p>redenzu snowden mütterrente mietpreisbremse afisma kieckbusch minusma prism methamphetamin mindestpersonalbemessung sukzessivadoption gruppenverfahren datenbankgrundbuch btmvv cookinseln highs gettorente investitionspartnerschaft fatca substituierenden mnla behinderungskompensierenden unternehmensstrafrecht ttip kidal kapitalanlagegesetzbuch prostitutionsstätten kohleausstiegsgesetz bushido behinderungskompensierender</p>
+</section>
+<section id="section-64" class="level3">
+<h3 class="anchored" data-anchor-id="section-64">2014:</h3>
+<p>ceta flisek elterngeldplus petry zollner bundesteilhabegesetz pflegestärkungsgesetz bmub ebolaepidemie prokon chlorhühnchen peschmerga ausländermaut levonorgestrel poroschenko netzallianz bundesteilhabegesetzes westermayer groko zukunftsvergessen pflegevorsorgefonds familienarbeitszeit engelmeier ray tisa cape tarifpaket kobane atd triton</p>
+</section>
+<section id="section-65" class="level3">
+<h3 class="anchored" data-anchor-id="section-65">2015:</h3>
+<p>mistura ronja thissen staffan sousse badawi unmil finanzzufluss krankenhausstrukturgesetz aufarbeitungskommission selektoren iarc syrienkrieges handelsgerichtshof raif eunavfor mikroplastik ryglewski althengstett mosblech aiib elfi tarifeinheitsgesetz palliativgesetz höchstspeicherfrist varoufakis hebdo selektorenliste piatto pflegestellenförderprogramm</p>
+</section>
+<section id="section-66" class="level3">
+<h3 class="anchored" data-anchor-id="section-66">2016:</h3>
+<p>brexit böhmermann incirlik strommarktgesetz cosse ripsam umgangsmehrbedarf gewinnglättung idomeni integrationspauschale wasserpfeifen aleppos finanzmarktnovellierungsgesetz ankunftsnachweis sektorkopplung freeland awstg grapschen strategierahmen cis flüchtlingsdeal braunsbach klimaschutzplanes primark psychvvg integrationspaket airdrops behindertengleichstellungsrechts kulturgutschutzes bthg</p>
+</section>
+<section id="section-67" class="level3">
+<h3 class="anchored" data-anchor-id="section-67">2017:</h3>
+<p>amri pesco netzwerkdurchsetzungsgesetz weidel theurer paradise sitta netzdg nicola mieterstromgesetz stoffstrombilanz entgelttransparenzgesetz protschka otten traditionsschifffahrt ehrhorn hebner corbyn curio brennelementelieferungen polat dienstleistungskarte helin masi cotar keuter kaeser eleonora nastic schmidtke</p>
+</section>
+<section id="section-68" class="level3">
+<h3 class="anchored" data-anchor-id="section-68">2018:</h3>
+<p>brückenteilzeit migrationspakt hardwarenachrüstung esport wechselmodell wohngipfel insektenschutz hardwarenachrüstungen serviceopposition kohlekommission ackerbaustrategie qualifizierungschancengesetz hänel wohnraumoffensive rentenpakt digitalfonds adrs digitalsteuer dieselfahrverbote letztsicherung teilhabechancengesetz versichertenentlastungsgesetz wohnungsgipfel heimatministerium meuthen experimentierräume dieselbesitzer fachkräfteeinwanderungsgesetz rugy dieselbusse</p>
+</section>
+<section id="section-69" class="level3">
+<h3 class="anchored" data-anchor-id="section-69">2019:</h3>
+<p>uploadfilter lübcke univ kyiv fridays nezahat baradari nordmazedonien zickenheiner elektrokleinstfahrzeuge clankriminalität miri heidt guaidó uploadfiltern afdfraktion klimanotstand strukturstärkungsgesetz selenskyj thunberg assange klimakabinetts elektrokleinstfahrzeugen wohnsitzregelung pd bonpflicht amtszeitbegrenzung lieferkettengesetz nordostsyrien oah</p>
+</section>
+<section id="section-70" class="level3">
+<h3 class="anchored" data-anchor-id="section-70">2020:</h3>
+<p>coronakrise coronapandemie lockdown coronamassnahmen coronazeiten maskenpflicht lockdowns coronahilfen coronazeit irini wirtschaftsstabilisierungsfonds arbeitsschutzkontrollgesetz nölke coronabedingt afkari biontech rentenübersicht novemberhilfe coronasituation coronabedingten curevac tichanowskaja coronapolitik coronabedingte novemberhilfen teststrategie pspp pandemiezeiten krankenhauszukunftsgesetz testkapazitäten</p>
+</section>
+<section id="section-71" class="level3">
+<h3 class="anchored" data-anchor-id="section-71">2021:</h3>
+<p>selbsttests bundesnotbremse nordt impfangebot maika gohl verimpft impfstoffbeschaffung eigentests mindestkurzarbeitergeld teilhabestärkungsgesetz osterruhe virusvarianten virusmutationen maskendeals wertpapierinstitute betriebsrätemodernisierungsgesetz sormas löschmoratorium impfportal insektenschutzpaket impffortschritt datenkompetenz barrierefreiheitsstärkungsgesetz pflegeanwendungen warp bauwende impftermin coronaimpfpass fondsstandortgesetz</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+      <i class="bi bi-cc-circle" role="img">
+</i> 
+ Pim Huijnen
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
