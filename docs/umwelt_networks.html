@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Zurück in die Zukunft – Pim Huijnen</title>
+<title>Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um ‘Umwelt’ (1949–2024) – Pim Huijnen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6fb6c03c9d5acbdc856034bdb83ab84e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f90de0a55e612de5716e3074f1eb880e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,8 +73,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Zurück in die Zukunft – Pim Huijnen">
-<meta property="og:description" content="Personal website of Pim Huijnen">
+<meta property="og:title" content="Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um ‘Umwelt’ (1949–2024) – Pim Huijnen">
+<meta property="og:image" content="./images/w2v_networks/1949_1958_umwelt_5_5_network.png">
 <meta property="og:site_name" content="Pim Huijnen">
 </head>
 
@@ -132,30 +132,18 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Contents</h2>
-   
-  <ul>
-  <li><a href="#vitaminen-eviunis" id="toc-vitaminen-eviunis" class="nav-link active" data-scroll-target="#vitaminen-eviunis">Vitaminen / Eviunis</a></li>
-  <li><a href="#bundestag" id="toc-bundestag" class="nav-link" data-scroll-target="#bundestag">Bundestag</a></li>
-  <li><a href="#word-embeddings" id="toc-word-embeddings" class="nav-link" data-scroll-target="#word-embeddings">Word Embeddings</a></li>
-  <li><a href="#generative-ki" id="toc-generative-ki" class="nav-link" data-scroll-target="#generative-ki">Generative KI</a></li>
-  <li><a href="#schluss" id="toc-schluss" class="nav-link" data-scroll-target="#schluss">Schluss</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Zurück in die Zukunft</h1>
+<h1 class="title">Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um ‘Umwelt’ (1949–2024)</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -167,52 +155,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Notizen und Referenzen zum Vortrag ‘Zurück in die Zukunft. Die Vermessung der Vergangenheit’ - VHS Borken Semestereröffnung, 18. September 2025</p>
-<hr>
-<section id="vitaminen-eviunis" class="level3">
-<h3 class="anchored" data-anchor-id="vitaminen-eviunis">Vitaminen / Eviunis</h3>
-<p>Huijnen, Pim, <a href="https://platform.openjournals.nl/studium/article/view/20214">‘Het wondermiddel van professor Buytendijk’</a>, Studium 4 (2010) 155-169.</p>
-<p>Scheunert, A., Schieblich, M. &amp; Reschke, J. <a href="https://rdcu.be/eGOFh">‘Über den Vitamingehalt von Eviunis (Vitophos)’</a>. Zeitschr. f.&nbsp;Untersuchung der Lebensmittel 66, 271–278 (1933). https://doi.org/10.1007/BF01664670.</p>
-<p>Werbung De Betuwe jams, Nieuwe Rotterdamsche Courant, 20.09.1929, S. 20. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020</a>.</p>
-<p>Werbung Kwatta Ma-vie chocolade, Twentsch Dagblad Tubantia en Enschedese Courant, 01.03.1929, S. 6. Delpher: <a href="https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006" class="uri">https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006</a>.</p>
-<p>Werbung Ranja en Rojo, Nieuwe Rotterdamsche Courant, 13.09.1929, S. 15. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015</a>.</p>
-<p>Werbung Vitawin, Nieuwe Rotterdamsche Courant, 16.11.1929, S. 1. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001</a>.</p>
-<p><a href="http://historisch.groene.nl/nummer/1930-11-15/pagina/12">Werbung ‘Beter Wittebrood’</a>, De Groene Amsterdammer, 15.11.1930, S. 12.</p>
-<p>Suchfrage <a href="https://www.delpher.nl/nl/kranten/results?query=vitamin*&amp;coll=ddd">’vitamin*’</a> in Delpher Zeitungsarchiv.</p>
-<p>Suchfrage <a href="https://www.deutsche-digitale-bibliothek.de/search/newspaper?query=vitamin*">’vitamin*’</a> im deutschen Zeitungsportal.</p>
-</section>
-<section id="bundestag" class="level3">
-<h3 class="anchored" data-anchor-id="bundestag">Bundestag</h3>
-<p>Lange, Kai-Robin and Jentsch, Carsten, <a href="https://berd-platform.de/records/g3225-rba63">‘SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments’</a>, Proceedings of the 3rd Workshop on Computational Linguistics for Political Text Analysis @ KONVENS (2023).</p>
-<p>G.H. Brundtland et.al., <a href="https://www.brundtland.co.za/other-publication/brundtland-report-1987-our-common-future/">Our Common Future. Report of the World Commission on Environment and Development</a> (1987)</p>
-<p><a href="new_words_per_year.html">Neue Wörter pro Jahr im Bundestag, 1950-2021</a></p>
-<p>Karen Zhou, Alexander A Meitus, Milo Chase, Grace Wang, Anne Mykland, William Howell, Chenhao Tan, <a href="https://doi.org/10.1093/pnasnexus/pgae431">‘Quantifying the uniqueness and divisiveness of presidential discourse’</a>, PNAS Nexus, Volume 3, Issue 10, October (2024), pp.&nbsp;43.</p>
-<p>Pim Huijnen, <a href="https://doi.org/10.1093/llc/fqad099">‘Everyday memory: a computational analysis of the changing relation between past and present in Dutch newspapers in the twentieth century’</a>, Digital Scholarship in the Humanities 00 (2024), pp.&nbsp;1–12.</p>
-</section>
-<section id="word-embeddings" class="level3">
-<h3 class="anchored" data-anchor-id="word-embeddings">Word Embeddings</h3>
-<p>Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, <a href="https://aclanthology.org/N13-1090/">‘Linguistic Regularities in Continuous Space Word Representations’</a>. In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (2013), pp.&nbsp;746–751, Atlanta, Georgia.</p>
-<p><a href="bundestag_w2v_umwelt.html">Liste mit Wörtern die “Umwelt” am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs</a>.</p>
-<p><a href="umwelt_networks.html">Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um ‘Umwelt’ (1949–2024)</a></p>
-<p><a href="bundestag_w2v_schande.html">Liste mit Wörtern die “Schande” am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs</a>.</p>
-</section>
-<section id="generative-ki" class="level3">
-<h3 class="anchored" data-anchor-id="generative-ki">Generative KI</h3>
-<p>Werbung N.V. Nederlandse Gasunie, Trouw, 04.06.1968, P. 2. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012">https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012</a></p>
-<p>Sentimentanalyse niederländisches Zeitungsdiskurs über Energie: <a href="https://digitalhistory.hum.uu.nl/projects/35-histaware-mining-historical-trajectories-of-awareness">Histaware Projekt</a> (2020-2021) und <a href="https://digitalhistory.hum.uu.nl/projects/46-interest-mining-historical-newspapers-for-sentiments-over-time">INTEREST Projekt</a> (2024-2025)</p>
-</section>
-<section id="schluss" class="level3">
-<h3 class="anchored" data-anchor-id="schluss">Schluss</h3>
-<p>Kiran Tomlinson et.al., <a href="https://doi.org/10.48550/arXiv.2507.07935">‘Working with AI: Measuring the Occupational Implications of Generative AI’</a> (2025), arXiv: 2507.07935.</p>
-<p>Foto ‘Kinder mit Rachitis’, <a href="https://wellcomecollection.org/works/t3rrbtsm">Wellcome Collection M0003399EB</a>.</p>
-<p>Vitanova-Lebertran Werbung im Hamburger Fremdenblatt, Abendausgabe, 27.05.1927, S. 10. Deutsches Zeitungsportal: <a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/H2CD54KS5HKLWWDZGMEMDDEYG5BUQJVE?issuepage=10">https://www.deutsche-digitale-bibliothek.de/newspaper/item/H2CD54KS5HKLWWDZGMEMDDEYG5BUQJVE?issuepage=10</a>.</p>
-<p>‘Steenkool: een goed alternatief’, Nederlands Dagblad, 02.02.1978, S. 7. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010682195:mpeg21:a0095">https://resolver.kb.nl/resolve?urn=ddd:010682195:mpeg21:a0095</a>.</p>
-<p>‘Steenkool - energiebron met tal van toepassingsmogelijkheden’, De Waarheid, 29.08.1979, S. 8. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010377551:mpeg21:a0144">https://resolver.kb.nl/resolve?urn=ddd:010377551:mpeg21:a0144</a>.</p>
-<p>Shojaee, Parshin, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, and Mehrdad Farajtabar, ‘The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity’,&nbsp;(2025) <a href="https://arxiv.org/abs/2506.09250v2">arXiv:2506.09250v2</a>&nbsp;[cs.AI].</p>
-<p>Clark, Christopher M. The Sleepwalkers: How Europe Went to War in 1914 (New York: Harper, 2013).</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><img src="./images/w2v_networks/1949_1958_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1949–1958"> <img src="./images/w2v_networks/1955_1964_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1955–1964"> <img src="./images/w2v_networks/1961_1970_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1961–1970"> <img src="./images/w2v_networks/1967_1976_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1967–1976"> <img src="./images/w2v_networks/1973_1982_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1973–1982"> <img src="./images/w2v_networks/1979_1988_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1979–1988"> <img src="./images/w2v_networks/1985_1994_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1985–1994"> <img src="./images/w2v_networks/1991_2000_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1991–2000"> <img src="./images/w2v_networks/1997_2006_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="1997–2006"> <img src="./images/w2v_networks/2003_2012_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="2003–2012"> <img src="./images/w2v_networks/2009_2018_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="2009–2018"> <img src="./images/w2v_networks/2015_2024_umwelt_5_5_network.png" class="img-fluid" data-fig-cap="2015–2024"></p>
+</div>
+</div>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

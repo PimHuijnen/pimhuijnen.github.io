@@ -1,0 +1,30 @@
+---
+title: "Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um 'Umwelt' (1949–2024)"
+format:
+  html:
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 1200px
+---
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](/images/w2v_networks/1949_1958_umwelt_5_5_network.png){fig-cap="1949–1958"}
+![](/images/w2v_networks/1955_1964_umwelt_5_5_network.png){fig-cap="1955–1964"}
+![](/images/w2v_networks/1961_1970_umwelt_5_5_network.png){fig-cap="1961–1970"}
+![](/images/w2v_networks/1967_1976_umwelt_5_5_network.png){fig-cap="1967–1976"}
+![](/images/w2v_networks/1973_1982_umwelt_5_5_network.png){fig-cap="1973–1982"}
+![](/images/w2v_networks/1979_1988_umwelt_5_5_network.png){fig-cap="1979–1988"}
+![](/images/w2v_networks/1985_1994_umwelt_5_5_network.png){fig-cap="1985–1994"}
+![](/images/w2v_networks/1991_2000_umwelt_5_5_network.png){fig-cap="1991–2000"}
+![](/images/w2v_networks/1997_2006_umwelt_5_5_network.png){fig-cap="1997–2006"}
+![](/images/w2v_networks/2003_2012_umwelt_5_5_network.png){fig-cap="2003–2012"}
+![](/images/w2v_networks/2009_2018_umwelt_5_5_network.png){fig-cap="2009–2018"}
+![](/images/w2v_networks/2015_2024_umwelt_5_5_network.png){fig-cap="2015–2024"}
+
+:::
+
+:::

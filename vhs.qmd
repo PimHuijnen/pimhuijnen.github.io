@@ -44,6 +44,7 @@ Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, ['Linguistic Regularities in Con
 
 [Liste mit Wörtern die "Umwelt" am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs](bundestag_w2v_umwelt.html).
 
+[Word2vec-basierte Netzwerke von semantisch ähnlichen Wörtern um ‘Umwelt’ (1949–2024)](umwelt_networks.html)
 
 [Liste mit Wörtern die "Schande" am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs](bundestag_w2v_schande.html).
 
