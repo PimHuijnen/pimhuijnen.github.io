@@ -1,0 +1,130 @@
+
+---
+title: "Wörter die 'Umwelt' am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs"
+format:
+  html:
+    df-print: paged
+jupyter: pim_env
+execute:
+  echo: false
+---
+
+### 1949 - 1958
+
+```{python}
+import pandas as pd
+terms = ['wirtschaftlichen_existenz', 'grundeinstellung', 'intelligenz', 'lebensordnung', 'tüchtigkeit', 'denkweise', 'machtstellung', 'lebensarbeit', 'gegnerschaft_gegen', 'nachbarschaft']
+scores = [0.8217, 0.7799, 0.775, 0.7739, 0.769, 0.7683, 0.7675, 0.7668, 0.7643, 0.7625]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1955 - 1964
+
+```{python}
+import pandas as pd
+terms = ['überlegenheit', 'intelligenz', 'selbständigkeit', 'gesinnung', 'entfaltung', 'zerstörung', 'substanz', 'nachbarschaft', 'lebensordnung', 'tradition']
+scores = [0.7784, 0.7774, 0.773, 0.7689, 0.7641, 0.7629, 0.7623, 0.7592, 0.7589, 0.7583]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1961 - 1970
+
+```{python}
+import pandas as pd
+terms = ['industriegesellschaft', 'armee', 'zusammengehörigkeit', 'bedrohung', 'disziplin', 'existenz', 'wirtschaftsordnung', 'dynamik', 'landschaft', 'selbständigkeit']
+scores = [0.7943, 0.7916, 0.7811, 0.7769, 0.7763, 0.775, 0.7748, 0.7744, 0.7718, 0.7698]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1967 - 1976
+
+```{python}
+import pandas as pd
+terms = ['arbeitswelt', 'volkswirtschaft', 'landschaft', 'lebensbedingungen', 'industriegesellschaft', 'leistungsgesellschaft', 'verteidigungsbereitschaft', 'entfaltung', 'gesamtwirtschaft', 'leistungsfähigkeit']
+scores = [0.7939, 0.7855, 0.7801, 0.7791, 0.7752, 0.7711, 0.768, 0.7647, 0.7641, 0.7617]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1973 - 1982
+
+```{python}
+import pandas as pd
+terms = ['landschaft', 'privatsphäre', 'lebensbedingungen', 'entfaltung', 'mobilität', 'lebensverhältnisse', 'arbeitswelt', 'daseinsvorsorge', 'bedürfnisse', 'natürlichen_umwelt']
+scores = [0.7564, 0.75, 0.7441, 0.7327, 0.7267, 0.7249, 0.7185, 0.7182, 0.7133, 0.7123]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1979 - 1988
+
+```{python}
+import pandas as pd
+terms = ['natur', 'gesundheit', 'natürlichen_lebensgrundlagen', 'lebensgrundlagen', 'kulturlandschaft', 'landschaft', 'wälder', 'meere', 'gewässer', 'nordsee']
+scores = [0.7526, 0.6927, 0.6856, 0.6836, 0.6561, 0.6545, 0.6524, 0.6498, 0.648, 0.645]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1985 - 1994
+
+```{python}
+import pandas as pd
+terms = ['natur', 'gesundheit', 'erdatmosphäre', 'natürlichen_lebensgrundlagen', 'landwirtschaft', 'nordsee', 'wälder', 'gentechnologie', 'menschlichen_gesundheit', 'landschaftspflege']
+scores = [0.7677, 0.7221, 0.657, 0.6427, 0.6273, 0.6196, 0.6181, 0.6121, 0.6048, 0.6042]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1991 - 2000
+
+```{python}
+import pandas as pd
+terms = ['gesundheit', 'natur', 'naturschutz', 'ernährung', 'natürlichen_lebensgrundlagen', 'wälder', 'landwirtschaft', 'lebensqualität', 'reaktorsicherheit', 'anlagen-']
+scores = [0.7535, 0.7043, 0.637, 0.6266, 0.6254, 0.6099, 0.5947, 0.584, 0.5836, 0.5817]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 1997 - 2006
+
+```{python}
+import pandas as pd
+terms = ['gesundheit', 'naturschutz', 'natur', 'reaktorsicherheit', 'biodiversität', 'landwirtschaft', 'ernährung', 'raumordnung', 'lebensmittelsicherheit', 'natürlichen_ressourcen']
+scores = [0.7743, 0.7068, 0.6611, 0.6427, 0.6293, 0.623, 0.6188, 0.6087, 0.6043, 0.6027]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 2003 - 2012
+
+```{python}
+import pandas as pd
+terms = ['gesundheit', 'naturschutz', 'menschliche_gesundheit', 'ernährung', 'natur', 'reaktorsicherheit', 'artenvielfalt', 'biodiversität', 'reaktorsicherheit_empfiehlt', 'energie']
+scores = [0.7123, 0.7017, 0.6642, 0.6207, 0.6128, 0.6098, 0.6038, 0.5873, 0.5824, 0.5819]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 2009 - 2018
+
+```{python}
+import pandas as pd
+terms = ['gesundheit', 'naturschutz', 'artenvielfalt', 'energie', 'biodiversität', 'verkehr', 'natur', 'landwirtschaft', 'ernährung', 'ökologie']
+scores = [0.7636, 0.673, 0.6665, 0.6555, 0.6493, 0.6471, 0.6396, 0.6301, 0.618, 0.5951]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```
+
+### 2015 - 2024
+
+```{python}
+import pandas as pd
+terms = ['natur', 'biodiversität', 'artenvielfalt', 'gesundheit', 'ernährung', 'lebensgrundlagen', 'lebensqualität', 'ökosysteme', 'des_klimas', 'ökologie']
+scores = [0.7593, 0.7587, 0.7445, 0.727, 0.6992, 0.6986, 0.6933, 0.6724, 0.6714, 0.6672]
+df = pd.DataFrame({'Term': terms, 'Score': scores})
+df
+```

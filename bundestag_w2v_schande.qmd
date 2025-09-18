@@ -1,0 +1,64 @@
+
+---
+title: "Wörter die 'Schande' am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs"
+format:
+  html:
+    df-print: paged
+execute:
+  echo: false
+jupyter: pim_env
+---
+
+### 1955 - 1964
+
+```{python}
+import pandas as pd
+terms = ['provokation', 'gemeinsame_aussenpolitik', 'demonstration', 'schlechte_politik', 'ausrede']
+df = pd.DataFrame({'Term': terms})
+df
+```
+
+### 1967 - 1976
+
+```{python}
+import pandas as pd
+terms = ['anmassung', 'verlegenheitslösung', 'lösung_anzustreben', 'wohltat', 'gefährliche_sache', 'realistische_politik', 'juristische_person', 'bare_selbstverständlichkeit', 'pflichtübung', 'schande']
+df = pd.DataFrame({'Term': terms})
+df
+```
+
+### 1979 - 1988
+
+```{python}
+import pandas as pd
+terms = ['anmassung', 'entgleisung', 'scheinlösung', 'fehlleistung', 'alibiveranstaltung', 'pflichtübung', 'übertreibung', 'fälschung', 'provokation', 'sinnvolle_ergänzung']
+df = pd.DataFrame({'Term': terms})
+df
+```
+
+### 1991 - 2000
+
+```{python}
+import pandas as pd
+terms = ['pflichtübung', 'schweinerei', 'entgleisung', 'missgeburt', 'luftblase', 'provokation', 'anmassung', 'böswillige_unterstellung', 'schauveranstaltung', 'herzensangelegenheit']
+df = pd.DataFrame({'Term': terms})
+df
+```
+
+### 2003 - 2012
+
+```{python}
+import pandas as pd
+terms = ['neiddiskussion', 'wohltat', 'provokation', 'bösartige_unterstellung', 'anmassung', 'glatte_lüge', 'parlamentsinitiative', 'einzelmeinung', 'oppositionsrede', 'falsche_interpretation']
+df = pd.DataFrame({'Term': terms})
+df
+```
+
+### 2015 - 2024
+
+```{python}
+import pandas as pd
+terms = ['milchmädchenrechnung', 'lachnummer', 'einzelfallentscheidung', 'fehlinterpretation', 'fehlleistung', 'fata_morgana', 'regionalpartei', 'sensation', 'inszenierung', 'filiale']
+df = pd.DataFrame({'Term': terms})
+df
+```

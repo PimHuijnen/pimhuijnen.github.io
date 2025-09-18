@@ -2,8 +2,7 @@
 title: "Zurück in die Zukunft"
 ---
 
-Notizen und Referenzen zum Vortrag 'Zurück in die Zukunft. Die Vermessung der Vergangenheit'
-### VHS Borken Semestereröffnung, 18. September 2025
+Notizen und Referenzen zum Vortrag 'Zurück in die Zukunft. Die Vermessung der Vergangenheit' - VHS Borken Semestereröffnung, 18. September 2025
 
 ---
 
@@ -42,6 +41,11 @@ Pim Huijnen, [‘Everyday memory: a computational analysis of the changing relat
 ### Word Embeddings
 
 Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, ['Linguistic Regularities in Continuous Space Word Representations'](https://aclanthology.org/N13-1090/). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (2013), pp. 746–751, Atlanta, Georgia.
+
+[Liste mit Wörtern die "Umwelt" am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs](bundestag_w2v_umwelt.html).
+
+
+[Liste mit Wörtern die "Schande" am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs](bundestag_w2v_schande.html).
 
 ### Generative KI
 

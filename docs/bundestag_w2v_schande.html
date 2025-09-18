@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Zurück in die Zukunft – Pim Huijnen</title>
+<title>Wörter die ‘Schande’ am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs – Pim Huijnen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,7 +23,7 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script><script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
@@ -70,11 +70,13 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Zurück in die Zukunft – Pim Huijnen">
-<meta property="og:description" content="Personal website of Pim Huijnen">
+<meta property="og:title" content="Wörter die ‘Schande’ am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs – Pim Huijnen">
 <meta property="og:site_name" content="Pim Huijnen">
 </head>
 
@@ -137,11 +139,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Contents</h2>
    
   <ul>
-  <li><a href="#vitaminen-eviunis" id="toc-vitaminen-eviunis" class="nav-link active" data-scroll-target="#vitaminen-eviunis">Vitaminen / Eviunis</a></li>
-  <li><a href="#bundestag" id="toc-bundestag" class="nav-link" data-scroll-target="#bundestag">Bundestag</a></li>
-  <li><a href="#word-embeddings" id="toc-word-embeddings" class="nav-link" data-scroll-target="#word-embeddings">Word Embeddings</a></li>
-  <li><a href="#generative-ki" id="toc-generative-ki" class="nav-link" data-scroll-target="#generative-ki">Generative KI</a></li>
-  <li><a href="#schluss" id="toc-schluss" class="nav-link" data-scroll-target="#schluss">Schluss</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">1955 - 1964</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">1967 - 1976</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">1979 - 1988</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">1991 - 2000</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2003 - 2012</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2015 - 2024</a></li>
   </ul>
 </nav>
     </div>
@@ -150,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Zurück in die Zukunft</h1>
+<h1 class="title">Wörter die ‘Schande’ am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs</h1>
 </div>
 
 
@@ -167,48 +170,357 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Notizen und Referenzen zum Vortrag ‘Zurück in die Zukunft. Die Vermessung der Vergangenheit’ - VHS Borken Semestereröffnung, 18. September 2025</p>
-<hr>
-<section id="vitaminen-eviunis" class="level3">
-<h3 class="anchored" data-anchor-id="vitaminen-eviunis">Vitaminen / Eviunis</h3>
-<p>Huijnen, Pim, <a href="https://platform.openjournals.nl/studium/article/view/20214">‘Het wondermiddel van professor Buytendijk’</a>, Studium 4 (2010) 155-169.</p>
-<p>Scheunert, A., Schieblich, M. &amp; Reschke, J. <a href="https://rdcu.be/eGOFh">‘Über den Vitamingehalt von Eviunis (Vitophos)’</a>. Zeitschr. f.&nbsp;Untersuchung der Lebensmittel 66, 271–278 (1933). https://doi.org/10.1007/BF01664670.</p>
-<p>Werbung De Betuwe jams, Nieuwe Rotterdamsche Courant, 20.09.1929, S. 20. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030488:mpeg21:p020</a>.</p>
-<p>Werbung Kwatta Ma-vie chocolade, Twentsch Dagblad Tubantia en Enschedese Courant, 01.03.1929, S. 6. Delpher: <a href="https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006" class="uri">https://resolver.kb.nl/resolve?urn=MMSAEN01:000049959:mpeg21:p006</a>.</p>
-<p>Werbung Ranja en Rojo, Nieuwe Rotterdamsche Courant, 13.09.1929, S. 15. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030476:mpeg21:p015</a>.</p>
-<p>Werbung Vitawin, Nieuwe Rotterdamsche Courant, 16.11.1929, S. 1. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001" class="uri">https://resolver.kb.nl/resolve?urn=ddd:010030585:mpeg21:p001</a>.</p>
-<p><a href="http://historisch.groene.nl/nummer/1930-11-15/pagina/12">Werbung ‘Beter Wittebrood’</a>, De Groene Amsterdammer, 15.11.1930, S. 12.</p>
-<p>Suchfrage <a href="https://www.delpher.nl/nl/kranten/results?query=vitamin*&amp;coll=ddd">’vitamin*’</a> in Delpher Zeitungsarchiv.</p>
-<p>Suchfrage <a href="https://www.deutsche-digitale-bibliothek.de/search/newspaper?query=vitamin*">’vitamin*’</a> im deutschen Zeitungsportal.</p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">1955 - 1964</h3>
+<div id="5d7a1c2b" class="cell" data-execution_count="1">
+<div class="cell-output cell-output-display" data-execution_count="1">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>provokation</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>gemeinsame_aussenpolitik</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>demonstration</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>schlechte_politik</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>ausrede</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 </section>
-<section id="bundestag" class="level3">
-<h3 class="anchored" data-anchor-id="bundestag">Bundestag</h3>
-<p>Lange, Kai-Robin and Jentsch, Carsten, <a href="https://berd-platform.de/records/g3225-rba63">‘SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments’</a>, Proceedings of the 3rd Workshop on Computational Linguistics for Political Text Analysis @ KONVENS (2023).</p>
-<p>G.H. Brundtland et.al., <a href="https://www.brundtland.co.za/other-publication/brundtland-report-1987-our-common-future/">Our Common Future. Report of the World Commission on Environment and Development</a> (1987)</p>
-<p><a href="new_words_per_year.html">Neue Wörter pro Jahr im Bundestag, 1950-2021</a></p>
-<p>Karen Zhou, Alexander A Meitus, Milo Chase, Grace Wang, Anne Mykland, William Howell, Chenhao Tan, <a href="https://doi.org/10.1093/pnasnexus/pgae431">‘Quantifying the uniqueness and divisiveness of presidential discourse’</a>, PNAS Nexus, Volume 3, Issue 10, October (2024), pp.&nbsp;43.</p>
-<p>Pim Huijnen, <a href="https://doi.org/10.1093/llc/fqad099">‘Everyday memory: a computational analysis of the changing relation between past and present in Dutch newspapers in the twentieth century’</a>, Digital Scholarship in the Humanities 00 (2024), pp.&nbsp;1–12.</p>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">1967 - 1976</h3>
+<div id="3bbc3f28" class="cell" data-execution_count="2">
+<div class="cell-output cell-output-display" data-execution_count="2">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>anmassung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>verlegenheitslösung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>lösung_anzustreben</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>wohltat</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>gefährliche_sache</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>realistische_politik</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>juristische_person</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>bare_selbstverständlichkeit</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>pflichtübung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>schande</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 </section>
-<section id="word-embeddings" class="level3">
-<h3 class="anchored" data-anchor-id="word-embeddings">Word Embeddings</h3>
-<p>Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, <a href="https://aclanthology.org/N13-1090/">‘Linguistic Regularities in Continuous Space Word Representations’</a>. In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (2013), pp.&nbsp;746–751, Atlanta, Georgia.</p>
-<p><a href="bundestag_w2v_umwelt.html">Liste mit Wörtern die “Umwelt” am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs</a>.</p>
-<p><a href="bundestag_w2v_schande.html">Liste mit Wörtern die “Schande” am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs</a>.</p>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">1979 - 1988</h3>
+<div id="13fda5ff" class="cell" data-execution_count="3">
+<div class="cell-output cell-output-display" data-execution_count="3">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>anmassung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>entgleisung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>scheinlösung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>fehlleistung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>alibiveranstaltung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>pflichtübung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>übertreibung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>fälschung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>provokation</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>sinnvolle_ergänzung</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 </section>
-<section id="generative-ki" class="level3">
-<h3 class="anchored" data-anchor-id="generative-ki">Generative KI</h3>
-<p>Werbung N.V. Nederlandse Gasunie, Trouw, 04.06.1968, P. 2. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012">https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012</a></p>
-<p>Sentimentanalyse niederländisches Zeitungsdiskurs über Energie: <a href="https://digitalhistory.hum.uu.nl/projects/35-histaware-mining-historical-trajectories-of-awareness">Histaware Projekt</a> (2020-2021) und <a href="https://digitalhistory.hum.uu.nl/projects/46-interest-mining-historical-newspapers-for-sentiments-over-time">INTEREST Projekt</a> (2024-2025)</p>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">1991 - 2000</h3>
+<div id="6b7d467a" class="cell" data-execution_count="4">
+<div class="cell-output cell-output-display" data-execution_count="4">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>pflichtübung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>schweinerei</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>entgleisung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>missgeburt</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>luftblase</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>provokation</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>anmassung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>böswillige_unterstellung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>schauveranstaltung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>herzensangelegenheit</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 </section>
-<section id="schluss" class="level3">
-<h3 class="anchored" data-anchor-id="schluss">Schluss</h3>
-<p>Kiran Tomlinson et.al., <a href="https://doi.org/10.48550/arXiv.2507.07935">‘Working with AI: Measuring the Occupational Implications of Generative AI’</a> (2025), arXiv: 2507.07935.</p>
-<p>Foto ‘Kinder mit Rachitis’, <a href="https://wellcomecollection.org/works/t3rrbtsm">Wellcome Collection M0003399EB</a>.</p>
-<p>Vitanova-Lebertran Werbung im Hamburger Fremdenblatt, Abendausgabe, 27.05.1927, S. 10. Deutsches Zeitungsportal: <a href="https://www.deutsche-digitale-bibliothek.de/newspaper/item/H2CD54KS5HKLWWDZGMEMDDEYG5BUQJVE?issuepage=10">https://www.deutsche-digitale-bibliothek.de/newspaper/item/H2CD54KS5HKLWWDZGMEMDDEYG5BUQJVE?issuepage=10</a>.</p>
-<p>‘Steenkool: een goed alternatief’, Nederlands Dagblad, 02.02.1978, S. 7. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010682195:mpeg21:a0095">https://resolver.kb.nl/resolve?urn=ddd:010682195:mpeg21:a0095</a>.</p>
-<p>‘Steenkool - energiebron met tal van toepassingsmogelijkheden’, De Waarheid, 29.08.1979, S. 8. Delpher: <a href="https://resolver.kb.nl/resolve?urn=ddd:010377551:mpeg21:a0144">https://resolver.kb.nl/resolve?urn=ddd:010377551:mpeg21:a0144</a>.</p>
-<p>Shojaee, Parshin, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, and Mehrdad Farajtabar, ‘The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity’,&nbsp;(2025) <a href="https://arxiv.org/abs/2506.09250v2">arXiv:2506.09250v2</a>&nbsp;[cs.AI].</p>
-<p>Clark, Christopher M. The Sleepwalkers: How Europe Went to War in 1914 (New York: Harper, 2013).</p>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">2003 - 2012</h3>
+<div id="009d0ce5" class="cell" data-execution_count="5">
+<div class="cell-output cell-output-display" data-execution_count="5">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>neiddiskussion</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>wohltat</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>provokation</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>bösartige_unterstellung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>anmassung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>glatte_lüge</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>parlamentsinitiative</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>einzelmeinung</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>oppositionsrede</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>falsche_interpretation</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</section>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">2015 - 2024</h3>
+<div id="92d3d4be" class="cell" data-execution_count="6">
+<div class="cell-output cell-output-display" data-execution_count="6">
+<div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-quarto-postprocess="true" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">Term</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">0</td>
+<td>milchmädchenrechnung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">1</td>
+<td>lachnummer</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">2</td>
+<td>einzelfallentscheidung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">3</td>
+<td>fehlinterpretation</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">4</td>
+<td>fehlleistung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">5</td>
+<td>fata_morgana</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">6</td>
+<td>regionalpartei</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">7</td>
+<td>sensation</td>
+</tr>
+<tr class="odd">
+<td data-quarto-table-cell-role="th">8</td>
+<td>inszenierung</td>
+</tr>
+<tr class="even">
+<td data-quarto-table-cell-role="th">9</td>
+<td>filiale</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
 
 
 </section>

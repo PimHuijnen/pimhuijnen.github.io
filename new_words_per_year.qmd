@@ -1,7 +1,7 @@
 ## Neue Wörter pro Jahr im Bundestag (1950-2021)
 
 
-### 1950:
+### 1950
 herren
 damen
 antrag
@@ -34,7 +34,7 @@ millionen
 kommen
 
 
-### 1951:
+### 1951
 luetkens
 kemritz
 montanunion
@@ -67,7 +67,7 @@ dienstposten
 übergangsgehälter
 
 
-### 1952:
+### 1952
 entschuld
 fu
 zusatzfrage
@@ -100,7 +100,7 @@ vob
 betriebsobmann
 
 
-### 1953:
+### 1953
 hilfsstimme
 präferenz
 bundesbank
@@ -133,7 +133,7 @@ siedlungsbewerber
 mietrichtsätze
 
 
-### 1954:
+### 1954
 zonenrandgebiet
 zonenrandgebiete
 zonenrandgebieten
@@ -166,7 +166,7 @@ kindergeldgesetzes
 seiboth
 
 
-### 1955:
+### 1955
 freiwilligengesetz
 bundesverteidigungsminister
 personalgutachterausschuss
@@ -199,7 +199,7 @@ mineralölgesellschaften
 massenvernichtungswaffen
 
 
-### 1956:
+### 1956
 zenker
 fvp
 juliusturm
@@ -232,7 +232,7 @@ warenautomaten
 accord
 
 
-### 1957:
+### 1957
 anl
 atomgesetzes
 bergmannsrente
@@ -265,7 +265,7 @@ malzindustrie
 rentnerbrief
 
 
-### 1958:
+### 1958
 barzel
 sozialbericht
 scherpenberg
@@ -298,7 +298,7 @@ dröscher
 scharnowski
 
 
-### 1959:
+### 1959
 heizölsteuer
 kohlenzoll
 deutschlandplan
@@ -331,7 +331,7 @@ kapitalberichtigung
 güde
 
 
-### 1960:
+### 1960
 efta
 baulandsteuer
 entwicklungspolitik
@@ -364,7 +364,7 @@ apothekenbetriebsordnung
 beratungsärztlichen
 
 
-### 1961:
+### 1961
 kennedy
 kindergeldkasse
 allparteienregierung
@@ -397,7 +397,7 @@ faktorenrente
 betriebsprüfungsordnung
 
 
-### 1962:
+### 1962
 ahlers
 hüttebräuker
 harmonisierungsnovelle
@@ -430,7 +430,7 @@ sozialpaketes
 freyh
 
 
-### 1963:
+### 1963
 argoud
 filbinger
 wohnbeihilfengesetz
@@ -463,7 +463,7 @@ grenzausgleich
 györfi
 
 
-### 1964:
+### 1964
 gumbel
 grundsatzrevision
 nagold
@@ -496,7 +496,7 @@ pfullendorf
 schiffahrtspolitik
 
 
-### 1965:
+### 1965
 haushaltssicherungsgesetz
 osswald
 ausbildungszulage
@@ -529,7 +529,7 @@ marqués
 zerbe
 
 
-### 1966:
+### 1966
 stabilitätsgesetz
 friedensnote
 raffert
@@ -562,7 +562,7 @@ stabilisierungsgesetzes
 kilometerpauschale
 
 
-### 1967:
+### 1967
 schöllhorn
 finanzänderungsgesetz
 finanzänderungsgesetzes
@@ -595,7 +595,7 @@ altvorräteentlastung
 schwefliger
 
 
-### 1968:
+### 1968
 diehl
 sonderziehungsrechte
 aufklärungslücke
@@ -628,7 +628,7 @@ drittelparität
 doping
 
 
-### 1969:
+### 1969
 riedl
 nichteheliche
 fusionskontrolle
@@ -661,7 +661,7 @@ maassen
 beurkundungswesen
 
 
-### 1970:
+### 1970
 umweltschutz
 griesau
 umweltschutzes
@@ -694,7 +694,7 @@ altersjahrgangs
 rechtskorrekturamnestie
 
 
-### 1971:
+### 1971
 farthmann
 gesundheitsbericht
 umweltprogramm
@@ -727,7 +727,7 @@ davis
 aufwendungsdarlehen
 
 
-### 1972:
+### 1972
 erkel
 cma
 machens
@@ -760,7 +760,7 @@ menth
 anästhesisten
 
 
-### 1973:
+### 1973
 lambsdorff
 stabilitätsabgabe
 ennepetal
@@ -793,7 +793,7 @@ verhülsdonk
 emstek
 
 
-### 1974:
+### 1974
 guillaume
 bölling
 verfassungsdebatte
@@ -826,7 +826,7 @@ töns
 balling
 
 
-### 1975:
+### 1975
 haushaltsstrukturgesetz
 sondergeneralversammlung
 wyhl
@@ -859,7 +859,7 @@ kapverdischen
 bissau
 
 
-### 1976:
+### 1976
 rico
 zeittakt
 vdj
@@ -892,7 +892,7 @@ kautionsregelung
 gtz
 
 
-### 1977:
+### 1977
 steger
 hasinger
 riesenhuber
@@ -925,7 +925,7 @@ wartenberg
 hoffacker
 
 
-### 1978:
+### 1978
 nico
 realsplitting
 mängelbericht
@@ -958,7 +958,7 @@ fliesen
 generica
 
 
-### 1979:
+### 1979
 harrisburg
 regelanfrage
 monierbau
@@ -991,7 +991,7 @@ verjährungsunterbrechung
 guadeloupe
 
 
-### 1980:
+### 1980
 afghanistans
 franghi
 kindergrundfreibetrag
@@ -1024,7 +1024,7 @@ golfregion
 eritreer
 
 
-### 1981:
+### 1981
 kansy
 dallmeyer
 weirich
@@ -1057,7 +1057,7 @@ poss
 heistermann
 
 
-### 1982:
+### 1982
 haushaltsbegleitgesetzes
 beschäftigungsförderungsgesetz
 haushaltsbegleitgesetz
@@ -1090,7 +1090,7 @@ teilhauptfeststellungsgesetz
 staffelmietvereinbarung
 
 
-### 1983:
+### 1983
 reents
 stratmann
 burgmann
@@ -1123,7 +1123,7 @@ toetemeyer
 rönsch
 
 
-### 1984:
+### 1984
 milchrente
 ferlemann
 abouchar
@@ -1156,7 +1156,7 @@ haftungszuschlag
 binnenorientierung
 
 
-### 1985:
+### 1985
 ströbele
 schierholz
 senfft
@@ -1189,7 +1189,7 @@ technologiegemeinschaft
 waldschadensbericht
 
 
-### 1986:
+### 1986
 tschernobyl
 lappas
 becquerel
@@ -1222,7 +1222,7 @@ steuerbescheinigungsverfahren
 jugendbegegnungsstätte
 
 
-### 1987:
+### 1987
 sellin
 lippelt
 vennegerts
@@ -1255,7 +1255,7 @@ olms
 harries
 
 
-### 1988:
+### 1988
 dehp
 gesundheitsreformgesetz
 depfa
@@ -1288,7 +1288,7 @@ montanrunde
 wildsterben
 
 
-### 1989:
+### 1989
 rabta
 meneses
 vogl
@@ -1321,7 +1321,7 @@ meisner
 wurfsendung
 
 
-### 1990:
+### 1990
 pds
 einigungsvertrag
 treuhandanstalt
@@ -1354,7 +1354,7 @@ roske
 einigungsvertrags
 
 
-### 1991:
+### 1991
 larcher
 albowitz
 kriedner
@@ -1387,7 +1387,7 @@ personalstärkegesetz
 raidel
 
 
-### 1992:
+### 1992
 gus
 dsd
 vermögensrechtsänderungsgesetz
@@ -1420,7 +1420,7 @@ cetiner
 bürgerkriegsflüchtlingen
 
 
-### 1993:
+### 1993
 bischofferode
 belet
 uen
@@ -1453,7 +1453,7 @@ fraktionsgesetz
 tlg
 
 
-### 1994:
+### 1994
 wto
 tauss
 medizinprodukte
@@ -1486,7 +1486,7 @@ notimpfung
 deit
 
 
-### 1995:
+### 1995
 mochovce
 höfken
 raethjen
@@ -1519,7 +1519,7 @@ kowaljow
 zukunftsministers
 
 
-### 1996:
+### 1996
 postfilialen
 afrg
 schoene
@@ -1552,7 +1552,7 @@ eigentumsfristengesetz
 scientologen
 
 
-### 1997:
+### 1997
 umweltplan
 grundakte
 immunitätenprotokoll
@@ -1585,7 +1585,7 @@ sarkuhi
 kontrag
 
 
-### 1998:
+### 1998
 stollmann
 pallas
 loske
@@ -1618,7 +1618,7 @@ gehb
 dött
 
 
-### 1999:
+### 1999
 tampere
 eisenman
 hartnagel
@@ -1651,7 +1651,7 @@ eisenmans
 abzinsungsgebot
 
 
-### 2000:
+### 2000
 vonseiten
 card
 agrardiesel
@@ -1684,7 +1684,7 @@ sebnitz
 gnauck
 
 
-### 2001:
+### 2001
 agrarwende
 laeken
 schartau
@@ -1717,7 +1717,7 @@ wirkungsgleich
 antiterrorismuskonvention
 
 
-### 2002:
+### 2002
 lötzsch
 acrylamid
 nitrofen
@@ -1750,7 +1750,7 @@ zinsabgeltungsteuer
 nepad
 
 
-### 2003:
+### 2003
 kunduz
 brunkhorst
 reparaturklausel
@@ -1783,7 +1783,7 @@ fallpauschalenänderungsgesetz
 mautsystem
 
 
-### 2004:
+### 2004
 darfur
 wissing
 faizabad
@@ -1816,7 +1816,7 @@ zuwanderungsrates
 reiseschutzpassverfahren
 
 
-### 2005:
+### 2005
 jobgipfel
 lazar
 kontenabruf
@@ -1849,7 +1849,7 @@ linksfraktion
 toncar
 
 
-### 2006:
+### 2006
 hochschulpakt
 hightechstrategie
 normenkontrollrat
@@ -1882,7 +1882,7 @@ terrorismusbekämpfungsergänzungsgesetz
 vertragsarztrechtsänderungsgesetz
 
 
-### 2007:
+### 2007
 reformvertrag
 beus
 steinecke
@@ -1915,7 +1915,7 @@ vernor
 diwell
 
 
-### 2008:
+### 2008
 hdj
 obama
 eulex
@@ -1948,7 +1948,7 @@ kifög
 fdlr
 
 
-### 2009:
+### 2009
 wachstumsbeschleunigungsgesetz
 umweltprämie
 soffin
@@ -1981,7 +1981,7 @@ keul
 kekeritz
 
 
-### 2010:
+### 2010
 ead
 bankenabgabe
 bildungspaket
@@ -2014,7 +2014,7 @@ amnog
 kreditausfallversicherungen
 
 
-### 2011:
+### 2011
 fukushima
 esm
 ebner
@@ -2047,7 +2047,7 @@ mediationsgesetz
 dreierbesetzung
 
 
-### 2012:
+### 2012
 fiskalpakt
 fiskalvertrag
 büssemaker
@@ -2080,7 +2080,7 @@ notfallsanitäter
 cabos
 
 
-### 2013:
+### 2013
 redenzu
 snowden
 mütterrente
@@ -2113,7 +2113,7 @@ bushido
 behinderungskompensierender
 
 
-### 2014:
+### 2014
 ceta
 flisek
 elterngeldplus
@@ -2146,7 +2146,7 @@ atd
 triton
 
 
-### 2015:
+### 2015
 mistura
 ronja
 thissen
@@ -2179,7 +2179,7 @@ piatto
 pflegestellenförderprogramm
 
 
-### 2016:
+### 2016
 brexit
 böhmermann
 incirlik
@@ -2212,7 +2212,7 @@ kulturgutschutzes
 bthg
 
 
-### 2017:
+### 2017
 amri
 pesco
 netzwerkdurchsetzungsgesetz
@@ -2245,7 +2245,7 @@ nastic
 schmidtke
 
 
-### 2018:
+### 2018
 brückenteilzeit
 migrationspakt
 hardwarenachrüstung
@@ -2278,7 +2278,7 @@ rugy
 dieselbusse
 
 
-### 2019:
+### 2019
 uploadfilter
 lübcke
 univ
@@ -2311,7 +2311,7 @@ nordostsyrien
 oah
 
 
-### 2020:
+### 2020
 coronakrise
 coronapandemie
 lockdown
@@ -2344,7 +2344,7 @@ krankenhauszukunftsgesetz
 testkapazitäten
 
 
-### 2021:
+### 2021
 selbsttests
 bundesnotbremse
 nordt
