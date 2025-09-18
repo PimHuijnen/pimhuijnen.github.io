@@ -6,9 +6,10 @@ Notizen und Referenzen zum Vortrag 'Zurück in die Zukunft. Die Vermessung der V
 
 ---
 
-Die Slides zum Vortrag finden Sie [hier](documents/phuijnen_vhs.pdf).
+Die Slides zum Vortrag finden Sie [hier](documents/phuijnen_vhs.pdf){.external target="_blank"}.
 
-![](images/phuijnen1.jpeg){fig-align="left"}
+![](images/phuijnen1.jpg){fig-align="left" width="60%"}
+
 
 ### Vitaminen / Eviunis
 
@@ -34,6 +35,7 @@ Suchfrage ['vitamin*'](https://www.delpher.nl/nl/kranten/results?query=vitamin*&
 
 Suchfrage ['vitamin*'](https://www.deutsche-digitale-bibliothek.de/search/newspaper?query=vitamin*) im deutschen Zeitungsportal.
 
+
 ### Bundestag
 
 Lange, Kai-Robin and Jentsch, Carsten, ['SpeakGer: A meta-data enriched speech corpus of German state and federal parliaments'](https://berd-platform.de/records/g3225-rba63), Proceedings of the 3rd Workshop on Computational Linguistics for Political Text Analysis @ KONVENS (2023). 
@@ -46,6 +48,7 @@ Karen Zhou, Alexander A Meitus, Milo Chase, Grace Wang, Anne Mykland, William Ho
 
 Pim Huijnen, [‘Everyday memory: a computational analysis of the changing relation between past and present in Dutch newspapers in the twentieth century’](https://doi.org/10.1093/llc/fqad099), Digital Scholarship in the Humanities 00 (2024), pp. 1–12.
 
+
 ### Word Embeddings
 
 Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, ['Linguistic Regularities in Continuous Space Word Representations'](https://aclanthology.org/N13-1090/). In Proceedings of the 2013 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (2013), pp. 746–751, Atlanta, Georgia.
@@ -56,11 +59,13 @@ Tomas Mikolov, Wen-tau Yih, and Geoffrey Zweig, ['Linguistic Regularities in Con
 
 [Liste mit Wörtern die "Schande" am meisten nahe stehen, pro word2vec Modell auf Basis des Bundestag-Archivs](bundestag_w2v_schande.html).
 
+
 ### Generative KI
 
 Werbung N.V. Nederlandse Gasunie, Trouw, 04.06.1968, P. 2. Delpher: [https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012](https://resolver.kb.nl/resolve?urn=ABCDDD:010814088:mpeg21:a0012)
 
 Sentimentanalyse niederländisches Zeitungsdiskurs über Energie: [Histaware Projekt](https://digitalhistory.hum.uu.nl/projects/35-histaware-mining-historical-trajectories-of-awareness) (2020-2021) und [INTEREST Projekt](https://digitalhistory.hum.uu.nl/projects/46-interest-mining-historical-newspapers-for-sentiments-over-time) (2024-2025)
+
 
 ### Schluss
 
