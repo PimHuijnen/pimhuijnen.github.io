@@ -2,58 +2,6 @@
 title: "Talks"
 ---
 
-## Organisation & hosting
-
-## 2025
-
-Co-organization and co-hosting (with Steven Claeyssens) of the conference ['Historische kranten in het AI-tijdperk'](https://lab.kb.nl/agenda/historische-kranten-het-ai-tijdperk){.external target="_blank"} in the Dutch National Library, The Hague (21.03.2025)
-
-Co-organization and co-hosting (with Carsten Schnober, Jose Angel Daza, Parisa Zahedi, Mees van Stiphout and Willem-Jan Faber) of the workshop 'Using AI to analyse historical texts' at the Dutch National Library, The Hague (20.03.2025) 
-
-## 2022
-
-Co-organization (with Parisa Zahedi and Carsten Schnober) and hosting of the workshop 'Developing Dutch Language Models for Historical Research' at the NL eScience Center Amsterdam (09.12.2022)
-
-Co-organization and co-hosting (with Pieter Huistra) of the panel 'Tussen vraag en verhaal: het hoe en waarom van replicatie in historisch onderzoek' at Historicidagen 2022 Rotterdam (26.08.2022)
-
-## 2018
-
-Co-organization (with Joris van Eijnatten) of 'Using Computational Techniques to Account for Cultural Change over Time' Panel at ESSHC 2018, Belfast, (05.04.2018)
-
-## 2017
-
-Co-organization (with Jaap Verheul) of 'Data Driven Conceptual History: New Methods and Approaches' Panel at Genealogies of Knowlegde I, Manchester University (08.12.2017)
-
-Co-organization (with Lisanne Walma and Peter van Hooff) and host of national text mining workshop, Utrecht University (07-08.11.2017)
-
-Co-organization (with Lisanne Walma) and host of text mining in education workshop at Historicidagen, Utrecht (26.08.2017)
-
-Host of the ‘Geschiedenis in een digitale wereld’ discussion panel at Historicidagen (25.08.2017)
-
-## 2016
-
-Co-organization (with Prof. Joris van Eijnatten) and host of the session ‘Visualizing Modernity: using digital techniques to trace the rise of Modernity in Europe’ at ESSHC 2016, Valencia  (01.04.2016)
-
-## 2015
-
-Organization and host of expert meeting Digital Humanities at Utrecht University (10.06.2015)
-
-Co-organization (with Melvin Wevers and Ilja Nieuwland) and host of THATCamp Utrecht (28-29.01.2015)
-
-## 2014
-
-Co-organization (with Jaap Verheul) of the international conference Reference Cultures and Imagined Empires from a Western Perspective, 1850-2000, Utrecht University (11-13.06.2014)
-
-Co-host (with Bram Mellink) session ‘Bedolven onder bronnen’ at THATCampDH14, The Hague (14-15.01.2014)
-
-## 2013
-
-Organization and co-host of the 'Genetics, eugenics and culture: transatlantic perspectives, 1900-2000' Symposium at the International Congress of History of Science, Technology and Medicine 2013, Manchester (27.07.2013)
-
-Chair of the 'Vernetzung in Wirtschaft, Wissenschaft und Technik' panel at the conference 'Mittler, Verflechtung, Netzwerke: Deutschland und die Niederlande im 20. Jahrhundert', Amsterdam (26-27.09.2013) (an account of the conference can be found [here](https://www.hsozkult.de/event/id/event-72512){.external target="_blank"} at H-Soz-u-Kult)
-
-![](images/talks.jpg){fig-align="left"}
-
 ## Presentations 
 ### (texts and slides available on request)
 
@@ -236,3 +184,55 @@ Referent at a colloquium on the public discussions about the contested past of t
 'Universiteit en industrie, 1914-1940', Promovendicongres wetenschapsgeschiedenis, Barchem, 11-12 January 2007
 
 ![](images/talks2.jpeg){fig-align="left"}
+
+## Organisation & hosting
+
+## 2025
+
+Co-organization and co-hosting (with Steven Claeyssens) of the conference ['Historische kranten in het AI-tijdperk'](https://lab.kb.nl/agenda/historische-kranten-het-ai-tijdperk){.external target="_blank"} in the Dutch National Library, The Hague (21.03.2025)
+
+Co-organization and co-hosting (with Carsten Schnober, Jose Angel Daza, Parisa Zahedi, Mees van Stiphout and Willem-Jan Faber) of the workshop 'Using AI to analyse historical texts' at the Dutch National Library, The Hague (20.03.2025) 
+
+## 2022
+
+Co-organization (with Parisa Zahedi and Carsten Schnober) and hosting of the workshop 'Developing Dutch Language Models for Historical Research' at the NL eScience Center Amsterdam (09.12.2022)
+
+Co-organization and co-hosting (with Pieter Huistra) of the panel 'Tussen vraag en verhaal: het hoe en waarom van replicatie in historisch onderzoek' at Historicidagen 2022 Rotterdam (26.08.2022)
+
+## 2018
+
+Co-organization (with Joris van Eijnatten) of 'Using Computational Techniques to Account for Cultural Change over Time' Panel at ESSHC 2018, Belfast, (05.04.2018)
+
+## 2017
+
+Co-organization (with Jaap Verheul) of 'Data Driven Conceptual History: New Methods and Approaches' Panel at Genealogies of Knowlegde I, Manchester University (08.12.2017)
+
+Co-organization (with Lisanne Walma and Peter van Hooff) and host of national text mining workshop, Utrecht University (07-08.11.2017)
+
+Co-organization (with Lisanne Walma) and host of text mining in education workshop at Historicidagen, Utrecht (26.08.2017)
+
+Host of the ‘Geschiedenis in een digitale wereld’ discussion panel at Historicidagen (25.08.2017)
+
+## 2016
+
+Co-organization (with Prof. Joris van Eijnatten) and host of the session ‘Visualizing Modernity: using digital techniques to trace the rise of Modernity in Europe’ at ESSHC 2016, Valencia  (01.04.2016)
+
+## 2015
+
+Organization and host of expert meeting Digital Humanities at Utrecht University (10.06.2015)
+
+Co-organization (with Melvin Wevers and Ilja Nieuwland) and host of THATCamp Utrecht (28-29.01.2015)
+
+## 2014
+
+Co-organization (with Jaap Verheul) of the international conference Reference Cultures and Imagined Empires from a Western Perspective, 1850-2000, Utrecht University (11-13.06.2014)
+
+Co-host (with Bram Mellink) session ‘Bedolven onder bronnen’ at THATCampDH14, The Hague (14-15.01.2014)
+
+## 2013
+
+Organization and co-host of the 'Genetics, eugenics and culture: transatlantic perspectives, 1900-2000' Symposium at the International Congress of History of Science, Technology and Medicine 2013, Manchester (27.07.2013)
+
+Chair of the 'Vernetzung in Wirtschaft, Wissenschaft und Technik' panel at the conference 'Mittler, Verflechtung, Netzwerke: Deutschland und die Niederlande im 20. Jahrhundert', Amsterdam (26-27.09.2013) (an account of the conference can be found [here](https://www.hsozkult.de/event/id/event-72512){.external target="_blank"} at H-Soz-u-Kult)
+
+![](images/talks.jpg){fig-align="left"}
