@@ -6,6 +6,10 @@ Notizen und Referenzen zum Vortrag 'Zurück in die Zukunft. Die Vermessung der V
 
 ---
 
+Die Slides zum Vortrag finden Sie [hier](documents/phuijnen_vhs.pdf).
+
+![](images/phuijnen1.jpeg){fig-align="left"}
+
 ### Vitaminen / Eviunis
 
 Huijnen, Pim, [‘Het wondermiddel van professor Buytendijk’](https://platform.openjournals.nl/studium/article/view/20214), Studium 4 (2010) 155-169.
