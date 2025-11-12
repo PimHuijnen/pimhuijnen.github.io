@@ -5,7 +5,13 @@ title: "Talks"
 ## Presentations 
 (texts and slides available on request)
 
-## 2025
+<div style="margin: 1rem 0;">
+  <button type="button" onclick="document.querySelectorAll('details.year').forEach(d => d.open = true)">Expand all</button>
+  <button type="button" onclick="document.querySelectorAll('details.year').forEach(d => d.open = false)" style="margin-left: .5rem;">Collapse all</button>
+</div>
+<details class="year" markdown="1">
+<summary><strong>2025</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Zurück in die Zukunft. Die Vermessung der Vergangenheit', invited talk at the VHS Borken (18.09.2025, [references here](vhs.html))
 
@@ -17,7 +23,11 @@ title: "Talks"
 
 'The semantics of sustainability. Hoe machine learning kan helpen de conceptuele geschiedenis van duurzaamheid in Nederland te bestuderen', presentation at Historische Kranten in het AI-tijdperk Conference The Hague (21.03.2025, together with Pablo Merayo Montes)
 
-## 2024
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2024</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Benefits and Limits of Reproducibility in History', keynote presentation (with Pieter Huistra) at the Annual Symposium of the Dutch reproducibility network at the UMCG Groningen (06.12.2024) ([YouTube link](https://www.youtube.com/watch?v=3TLplXzZk0c){.external target="_blank"})
 
@@ -25,7 +35,11 @@ title: "Talks"
 
 'Once more with feeling. Replications in History', presentation (with Pieter Huistra) at the Open Research Week of the University of Essex (27.02.2024)
 
-## 2023
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2023</strong></summary>
+<div style="margin-top:.5rem;">
 
 'What AI can do for history (and vice versa). A machine learning approach to studying Dutch public debates', presentation at the GKG departmental seminar series (02.10.2023)
 
@@ -39,7 +53,11 @@ title: "Talks"
 
 'Was nützt die Fussnote? Datafizierung und Qualitätskontrolle in den (digitalen)Geschichtswissenschaften', lecture at the Offenes Forschungskolloquium digitale Geschichte Humboldt University Berlin (08.02.2023) ([YouTube link](https://www.youtube.com/watch?v=XSRD9gUKDEw){.external target="_blank"})
 
-## 2022
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2022</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Something happened to the future', Deswarte Prize Seminar paper (08.11.2022) ([YouTube link](https://www.youtube.com/watch?v=C2BTNBZnJl8){.external target="_blank"})
 
@@ -55,21 +73,37 @@ Invited speaker at the session 'Deepfakes en de geschiedwetenschap' at Historici
 
 'Podcasts as public history', presentation at the UU TLL Inspiratiecafé (17.02.2022)
 
-## 2020
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2020</strong></summary>
+<div style="margin-top:.5rem;">
 
 Participant and speaker at the Arcadia workshop on research workflows using digitised newspapers, Luxembourg Centre for Contemporary and Digital History, Luxembourg University (30-31.01.2020)
 
-## 2019
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2019</strong></summary>
+<div style="margin-top:.5rem;">
 
 "Buy healthy, tasty, pure!" A digital text analysis of neoliberal trends in Dutch food culture, 1950-2010', poster presentation at DH2019 Utrecht (10.07.2019, with Melvin Wevers)
 
-## 2018
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2018</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Introduction to text mining', break-out session for the Utrecht University Data Science Day, Utrecht (20.04.2018)
 
 ‘Using word embeddings for digital conceptual history’, paper at DHd: Digital Humanities Germany conference, Cologne (27.02.2018)
 
-## 2017
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2017</strong></summary>
+<div style="margin-top:.5rem;">
 
 ‘Using word embeddings to study conceptual change in historical newspapers’, Data Driven Conceptual History: New Methods and Approaches Panel at Genealogies of Knowlegde I, Manchester University (08.12.2017) (with Jaap Verheul)
 
@@ -81,7 +115,11 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 'De evolutie van concepten in kranten', talk at the Historische kranten als 'big data' II: Concepten op drift' conference at the National Library, The Hague (20.01.2017)
 
-## 2016
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2016</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Texcavator, a Tool for Cultural Text Mining in Historical Newspaper Repositories', talk at the What is Digital Humanities? panel at Historikertag 2016, Hamburg, 22 September 2016 (with Jaap Verheul)
 
@@ -95,7 +133,11 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 'From keyword searching to discourse mining', talk for the Encounters between the Humanities and Computing Colloquium series, Utrecht, 18 February 2016
 
-## 2015
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2015</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Digitaal historisch onderzoek: Kwantitatieve geschiedschrijving revisited?', talk for the Werkgroep Lichaamsgeschiedenis, Utrecht, 16 December 2015
 
@@ -113,7 +155,11 @@ Workshop 'Cultural Text Mining' at the DH Autumn School at Trier University, 1 O
 
 'From keyword searching to concept mining', talk at the National Library,  The Hague, 28 May 2015
 
-## 2014
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2014</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Finding Reference Cultures in Big Data', Europeana Newspapers Information Day, National Library of the Netherlands, The Hague, 28 October 2014
 
@@ -125,7 +171,11 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 'Digitale Zeitungsarchive als Quellen (digitaler) Geschichtsforschung', Europeana Newspapers Information Day, Staatsbibliothek Berlin, Berlin, 28 February 2014
 
-## 2013
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2013</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Biland: Digital approaches to eugenic thinking in the Netherlands, 1860-1945', 1st International Workshop on Histoinformatics at the 5th International Conference on Social Informatics, Kyoto, 25 November 2013
 
@@ -139,7 +189,11 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 'Biland: eine Webapplikation für historisch-komparatives Text Mining in öffentlichen Medien aus unterschiedlichen Ländern', Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, 15 January 2013
 
-## 2012
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2012</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Biland: eine Webapplikation für historisch-komparatives Text Mining in öffentlichen Medien aus unterschiedlichen Ländern', Trier Center for Digital Humanities DH Kolloquium, Trier, 28 November 2012
 
@@ -149,7 +203,11 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 'Genetic and eugenic thinking in public discourse in the Netherlands and Germany, 1860-1945', The Biological Future of Man - Continuities and Breaks in the History of Human Genetics before and after 1945, Nuremberg, 21-23 June 2012
 
-## 2011
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2011</strong></summary>
+<div style="margin-top:.5rem;">
 
 'De belofte van vitamines', Farmaceutisch Historische Dag, Arnhem, 27 October 2011
 
@@ -157,11 +215,19 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 Referent at a colloquium on the public discussions about the contested past of the Netherlands and Germany, NIOD, Amsterdam, 1 April 2011
 
-## 2010
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2010</strong></summary>
+<div style="margin-top:.5rem;">
 
 'The Science of measuring Vitamins', Drugs, living things and the Problems of Standardization, Braunschweig, 25-27 March 2010
 
-## 2009
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2009</strong></summary>
+<div style="margin-top:.5rem;">
 
 'L.K. Wolff en de professionalisering van het voedingsonderzoek in de jaren twintig en dertig', Het universitaire bedrijf in Nederland, Utrecht, 27 November 2009
 
@@ -171,7 +237,11 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 'Wetenschap en propaganda', Tweede promovendicongres wetenschapsgeschiedenis, Kerkrade, 22 January 2009
 
-## 2008
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2008</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Voedselcontrole als taak van de wetenschap, 1918-1945', Eten en drinken: steeds gezonder? Historische aspecten van voedselveiligheid en -kwaliteit en hun gevolgen, Eindhoven, 28 November 2008
 
@@ -179,7 +249,11 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 'Science, industry and government in nutrition research in the Netherlands, 1918-1945', 17. Studientag Wissenschaftsgeschichte Max-Planck-Institut für Wissenschaftsgeschichte, Berlin, 16 May 2008
 
-## 2007
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2007</strong></summary>
+<div style="margin-top:.5rem;">
 
 'Universiteit en industrie, 1914-1940', Promovendicongres wetenschapsgeschiedenis, Barchem, 11-12 January 2007
 
@@ -187,23 +261,39 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 ## Organisation & hosting
 
-## 2025
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2025</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization and co-hosting (with Steven Claeyssens) of the conference ['Historische kranten in het AI-tijdperk'](https://lab.kb.nl/agenda/historische-kranten-het-ai-tijdperk){.external target="_blank"} in the Dutch National Library, The Hague (21.03.2025)
 
 Co-organization and co-hosting (with Carsten Schnober, Jose Angel Daza, Parisa Zahedi, Mees van Stiphout and Willem-Jan Faber) of the workshop 'Using AI to analyse historical texts' at the Dutch National Library, The Hague (20.03.2025) 
 
-## 2022
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2022</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization (with Parisa Zahedi and Carsten Schnober) and hosting of the workshop 'Developing Dutch Language Models for Historical Research' at the NL eScience Center Amsterdam (09.12.2022)
 
 Co-organization and co-hosting (with Pieter Huistra) of the panel 'Tussen vraag en verhaal: het hoe en waarom van replicatie in historisch onderzoek' at Historicidagen 2022 Rotterdam (26.08.2022)
 
-## 2018
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2018</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization (with Joris van Eijnatten) of 'Using Computational Techniques to Account for Cultural Change over Time' Panel at ESSHC 2018, Belfast, (05.04.2018)
 
-## 2017
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2017</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization (with Jaap Verheul) of 'Data Driven Conceptual History: New Methods and Approaches' Panel at Genealogies of Knowlegde I, Manchester University (08.12.2017)
 
@@ -213,26 +303,44 @@ Co-organization (with Lisanne Walma) and host of text mining in education worksh
 
 Host of the ‘Geschiedenis in een digitale wereld’ discussion panel at Historicidagen (25.08.2017)
 
-## 2016
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2016</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization (with Prof. Joris van Eijnatten) and host of the session ‘Visualizing Modernity: using digital techniques to trace the rise of Modernity in Europe’ at ESSHC 2016, Valencia  (01.04.2016)
 
-## 2015
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2015</strong></summary>
+<div style="margin-top:.5rem;">
 
 Organization and host of expert meeting Digital Humanities at Utrecht University (10.06.2015)
 
 Co-organization (with Melvin Wevers and Ilja Nieuwland) and host of THATCamp Utrecht (28-29.01.2015)
 
-## 2014
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2014</strong></summary>
+<div style="margin-top:.5rem;">
 
 Co-organization (with Jaap Verheul) of the international conference Reference Cultures and Imagined Empires from a Western Perspective, 1850-2000, Utrecht University (11-13.06.2014)
 
 Co-host (with Bram Mellink) session ‘Bedolven onder bronnen’ at THATCampDH14, The Hague (14-15.01.2014)
 
-## 2013
+</div>
+</details>
+<details class="year" markdown="1">
+<summary><strong>2013</strong></summary>
+<div style="margin-top:.5rem;">
 
 Organization and co-host of the 'Genetics, eugenics and culture: transatlantic perspectives, 1900-2000' Symposium at the International Congress of History of Science, Technology and Medicine 2013, Manchester (27.07.2013)
 
 Chair of the 'Vernetzung in Wirtschaft, Wissenschaft und Technik' panel at the conference 'Mittler, Verflechtung, Netzwerke: Deutschland und die Niederlande im 20. Jahrhundert', Amsterdam (26-27.09.2013) (an account of the conference can be found [here](https://www.hsozkult.de/event/id/event-72512){.external target="_blank"} at H-Soz-u-Kult)
 
 ![](images/talks.jpg){fig-align="left"}
+</div>
+</details>
