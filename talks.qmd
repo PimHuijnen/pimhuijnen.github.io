@@ -342,8 +342,6 @@ Co-organization (with Jaap Verheul) of the international conference Reference 
 Co-host (with Bram Mellink) session ‘Bedolven onder bronnen’ at THATCampDH14, The Hague (January 14-15, 2014)
 
 ![](images/talks.jpg){fig-align="left"}
-</div>
-</details>
 
 </div>
 </details>
@@ -354,3 +352,6 @@ Co-host (with Bram Mellink) session ‘Bedolven onder bronnen’ at THATCampDH1
 Organization and co-host of the 'Genetics, eugenics and culture: transatlantic perspectives, 1900-2000' Symposium at the International Congress of History of Science, Technology and Medicine 2013, Manchester (July 27, 2013)
 
 Chair of the 'Vernetzung in Wirtschaft, Wissenschaft und Technik' panel at the conference 'Mittler, Verflechtung, Netzwerke: Deutschland und die Niederlande im 20. Jahrhundert', Amsterdam (September 26-27, 2013) (an account of the conference can be found [here](https://www.hsozkult.de/event/id/event-72512){.external target="_blank"} at H-Soz-u-Kult)
+
+</div>
+</details>
