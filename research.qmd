@@ -32,7 +32,7 @@ I was trained as historian of science, having writing my master thesis about the
 
 ### Grants, fellowships and awards
 
-2024 \| Grant from the UU Education Incentive Fund for Transferable pedagogies for an Open Science mindset and skillset (as co-PI; 250,000€)
+2024 \| Grant from the UU Education Incentive Fund for Transferable pedagogies for an Open Science mindset and skillset (as contributor; 250,000€)
 
 2023 \| Seed money grant from the [UU Aplied Data Science focus Area](https://www.uu.nl/en/research/ai-data-science){.external target="_blank"} for Finding Sentiments in Factual Texts: Evaluation of Approaches for Analyzing Sentiments in Historical Newspapers (7,500€)
 
