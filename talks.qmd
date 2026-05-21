@@ -18,6 +18,7 @@ title: "Talks"
 'GenAI in het hoger onderwijs. Herkennen, reflecteren, herontwerpen', workshop at the UU [Onderwijsfestival](https://www.onderwijsfestivaluu.nl/programma) (March 5, 2026)
 
 </div>
+</details>
 <details class="year section-A" markdown="1">
 <summary><strong>2025</strong></summary>
 <div style="margin-top:.5rem;">
