@@ -10,7 +10,7 @@ title: "Talks"
   <button type="button" onclick="document.querySelectorAll('details.year.section-A').forEach(d => d.open = false)" style="margin-left: .5rem;">Collapse all</button>
 </div>
 <details class="year section-A" markdown="1" open>
-<summary><strong>2025</strong></summary>
+<summary><strong>2026</strong></summary>
 <div style="margin-top:.5rem;">
 
 'GenAI in education. Recognize, reflect, redesign', invited talk at the DigitalSociety-DDT Day in Utrecht (May 21, 2026)
@@ -18,7 +18,7 @@ title: "Talks"
 'GenAI in het hoger onderwijs. Herkennen, reflecteren, herontwerpen', workshop at the UU [Onderwijsfestival](https://www.onderwijsfestivaluu.nl/programma) (March 5, 2026)
 
 </div>
-<details class="year section-A" markdown="1" open>
+<details class="year section-A" markdown="1">
 <summary><strong>2025</strong></summary>
 <div style="margin-top:.5rem;">
 
