@@ -13,6 +13,15 @@ title: "Talks"
 <summary><strong>2025</strong></summary>
 <div style="margin-top:.5rem;">
 
+'GenAI in education. Recognize, reflect, redesign', invited talk at the DigitalSociety-DDT Day in Utrecht (May 21, 2026)
+
+'GenAI in het hoger onderwijs. Herkennen, reflecteren, herontwerpen', workshop at the UU [Onderwijsfestival](https://www.onderwijsfestivaluu.nl/programma) (March 5, 2026)
+
+</div>
+<details class="year section-A" markdown="1" open>
+<summary><strong>2025</strong></summary>
+<div style="margin-top:.5rem;">
+
 'Zurück in die Zukunft. Die Vermessung der Vergangenheit', invited talk at the VHS Borken (September 18, 2025, [references here](vhs.html))
 
 'The future of history. Between human interpretation and machine learning', keynote presentation at the Studenten Geschiedenis Nederland annual conference, Groningen University (June 20, 2025)
