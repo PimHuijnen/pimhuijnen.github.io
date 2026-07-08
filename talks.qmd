@@ -9,8 +9,10 @@ title: "Talks"
   <button type="button" onclick="document.querySelectorAll('details.year.section-A').forEach(d => d.open = true)">Expand all</button>
   <button type="button" onclick="document.querySelectorAll('details.year.section-A').forEach(d => d.open = false)" style="margin-left: .5rem;">Collapse all</button>
 </div>
+
 <details class="year section-A" markdown="1" open>
 <summary><strong>2026</strong></summary>
+
 <div style="margin-top:.5rem;">
 
 'GenAI in education. Recognize, reflect, redesign', invited talk at the DigitalSociety-DDT Day in Utrecht (May 21, 2026)
@@ -19,6 +21,7 @@ title: "Talks"
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2025</strong></summary>
 <div style="margin-top:.5rem;">
@@ -35,6 +38,7 @@ title: "Talks"
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2024</strong></summary>
 <div style="margin-top:.5rem;">
@@ -47,6 +51,7 @@ title: "Talks"
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2023</strong></summary>
 <div style="margin-top:.5rem;">
@@ -65,6 +70,7 @@ title: "Talks"
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2022</strong></summary>
 <div style="margin-top:.5rem;">
@@ -85,6 +91,7 @@ Invited speaker at the session 'Deepfakes en de geschiedwetenschap', Historicida
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2020</strong></summary>
 <div style="margin-top:.5rem;">
@@ -93,6 +100,7 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2019</strong></summary>
 <div style="margin-top:.5rem;">
@@ -101,6 +109,7 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2018</strong></summary>
 <div style="margin-top:.5rem;">
@@ -111,6 +120,7 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2017</strong></summary>
 <div style="margin-top:.5rem;">
@@ -133,6 +143,7 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2016</strong></summary>
 <div style="margin-top:.5rem;">
@@ -151,6 +162,7 @@ Participant and speaker at the Arcadia workshop on research workflows using digi
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2015</strong></summary>
 <div style="margin-top:.5rem;">
@@ -173,6 +185,7 @@ Workshop 'Cultural Text Mining' at the DH Autumn School at Trier University (Oct
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2014</strong></summary>
 <div style="margin-top:.5rem;">
@@ -189,6 +202,7 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2013</strong></summary>
 <div style="margin-top:.5rem;">
@@ -207,6 +221,7 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2012</strong></summary>
 <div style="margin-top:.5rem;">
@@ -221,6 +236,7 @@ Workshop presentation on BILAND and Translantis, Mining Digital Repositories Con
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2011</strong></summary>
 <div style="margin-top:.5rem;">
@@ -233,6 +249,7 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2010</strong></summary>
 <div style="margin-top:.5rem;">
@@ -241,6 +258,7 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2009</strong></summary>
 <div style="margin-top:.5rem;">
@@ -255,6 +273,7 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2008</strong></summary>
 <div style="margin-top:.5rem;">
@@ -267,6 +286,7 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 </div>
 </details>
+
 <details class="year section-A" markdown="1">
 <summary><strong>2007</strong></summary>
 <div style="margin-top:.5rem;">
@@ -276,6 +296,7 @@ Referent at a colloquium on the public discussions about the contested past of t
 
 </div>
 </details>
+
 ## Organisation & hosting
 
 <div style="margin: 1rem 0;">
